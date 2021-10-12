@@ -3301,3 +3301,71 @@ Error: Process sockets.js 29588 crashed and had to be restarted
     at ChildProcess.EventEmitter.emit (domain.js:467:12)
     at finish (internal/child_process.js:888:14)
     at processTicksAndRejections (internal/process/task_queues.js:75:11)
+
+Error: Nothing matches ""
+    at ModdedDex.validateBanRule (C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:1016:10)
+    at C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:933:41
+    at Array.map (<anonymous>)
+    at ModdedDex.validateRule (C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:933:27)
+    at ModdedDex.getRuleTable (C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:821:26)
+    at new TeamValidator (C:\Users\pswan\Downloads\DH\.sim-dist\team-validator.js:199:29)
+    at Function.get (C:\Users\pswan\Downloads\DH\.sim-dist\team-validator.js:2098:10)
+    at QueryProcessManager._query (C:\Users\pswan\Downloads\DH\.server-dist\team-validator-async.js:51:43)
+    at process.<anonymous> (C:\Users\pswan\Downloads\DH\.lib-dist\process-manager.js:540:30)
+    at process.emit (events.js:400:28)
+
+Additional information:
+  formatid = gen8randommons
+  team = Barraskewda|||swiftswim|||||,0,,,,|||
+
+
+Error: Nothing matches "Rand"
+    at ModdedDex.validateBanRule (C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:1016:10)
+    at ModdedDex.validateRule (C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:943:33)
+    at ModdedDex.getRuleTable (C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:821:26)
+    at new TeamValidator (C:\Users\pswan\Downloads\DH\.sim-dist\team-validator.js:199:29)
+    at Function.get (C:\Users\pswan\Downloads\DH\.sim-dist\team-validator.js:2098:10)
+    at QueryProcessManager._query (C:\Users\pswan\Downloads\DH\.server-dist\team-validator-async.js:51:43)
+    at process.<anonymous> (C:\Users\pswan\Downloads\DH\.lib-dist\process-manager.js:540:30)
+    at process.emit (events.js:400:28)
+    at process.emit (domain.js:470:12)
+    at emit (internal/child_process.js:910:12)
+
+Additional information:
+  formatid = gen8randommons
+  team = Barraskewda|||swiftswim|||||,0,,,,|||
+
+
+Error: Nothing matches "Rand"
+    at ModdedDex.validateBanRule (C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:1016:10)
+    at ModdedDex.validateRule (C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:943:33)
+    at ModdedDex.getRuleTable (C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:821:26)
+    at new TeamValidator (C:\Users\pswan\Downloads\DH\.sim-dist\team-validator.js:199:29)
+    at Function.get (C:\Users\pswan\Downloads\DH\.sim-dist\team-validator.js:2098:10)
+    at QueryProcessManager._query (C:\Users\pswan\Downloads\DH\.server-dist\team-validator-async.js:51:43)
+    at process.<anonymous> (C:\Users\pswan\Downloads\DH\.lib-dist\process-manager.js:540:30)
+    at process.emit (events.js:400:28)
+    at process.emit (domain.js:470:12)
+    at emit (internal/child_process.js:910:12)
+
+Additional information:
+  formatid = gen8randommons
+  team = Favourable Swan|||cloudnine|||||,0,,,,|||
+
+
+Error: Nothing matches ""
+    at ModdedDex.validateBanRule (C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:1016:10)
+    at C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:933:41
+    at Array.map (<anonymous>)
+    at ModdedDex.validateRule (C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:933:27)
+    at ModdedDex.getRuleTable (C:\Users\pswan\Downloads\DH\.sim-dist\dex.js:821:26)
+    at new TeamValidator (C:\Users\pswan\Downloads\DH\.sim-dist\team-validator.js:199:29)
+    at Function.get (C:\Users\pswan\Downloads\DH\.sim-dist\team-validator.js:2098:10)
+    at QueryProcessManager._query (C:\Users\pswan\Downloads\DH\.server-dist\team-validator-async.js:51:43)
+    at process.<anonymous> (C:\Users\pswan\Downloads\DH\.lib-dist\process-manager.js:540:30)
+    at process.emit (events.js:400:28)
+
+Additional information:
+  formatid = gen8randommons
+  team = Favourable Swan|||cloudnine|||||,0,,,,|||
+

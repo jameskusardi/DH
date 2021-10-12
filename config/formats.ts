@@ -1304,22 +1304,26 @@ export const Formats: FormatList = [
 	},
 	{
 		name: "[Gen 8] Randommons",
+		desc: `<b>Randommons</b>: In this Solomod, I have coded 1000 randomly generated Fakemon, complete with randomly assigned types, stats, abilities, weights, and learnsets!`,
 		threads: [
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3656899/">National Dex Metagame Discussion</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3658849/">National Dex Sample Teams</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3659038/">National Dex Viability Rankings</a>`,
+			`&bullet; <a href="https://www.smogon.com/forums/threads/solomods-megathread.3660004/page-4#post-9002827">Randommons Metagame Forum Post</a>`,
 		],
 
 		mod: 'random',
 		ruleset: ['Standard NatDex', 'OHKO Clause', 'Evasion Moves Clause', 'Species Clause', 'Dynamax Clause', 'Sleep Clause Mod', 'Data Mod'],
 		banlist: [
-			'Alakazam-Mega', 'Arceus', 'Blastoise-Mega', 'Blaziken', 'Darkrai', 'Deoxys-Attack', 'Deoxys-Base', 'Deoxys-Speed',
-			'Dialga', 'Eternatus', 'Genesect', 'Gengar-Mega', 'Giratina', 'Groudon', 'Ho-Oh', 'Kangaskhan-Mega', 'Kyogre',
-			'Kyurem-Black', 'Kyurem-White', 'Landorus-Base', 'Lucario-Mega', 'Lugia', 'Lunala', 'Marshadow', 'Mewtwo',
-			'Naganadel', 'Necrozma-Dawn-Wings', 'Necrozma-Dusk-Mane', 'Palkia', 'Pheromosa', 'Rayquaza', 'Reshiram',
-			'Salamence-Mega', 'Shaymin-Sky', 'Solgaleo', 'Xerneas', 'Yveltal', 'Zacian', 'Zamazenta', 'Zekrom', 'Zygarde-Base',
-			'Arena Trap', 'Moody', 'Power Construct', 'Shadow Tag', 'Baton Pass',
+			'Arena Trap', 'Moody', 'Power Construct', 'Shadow Tag', 'Baton Pass', 'Wonder Guard',
 		],
+		onValidateTeam(team, format) {
+			let speciesTable = {};
+			let allowedTiers = ['Rand'];
+			for (const set of team) {
+				let template = this.dex.getSpecies(set.species);
+				if ( !allowedTiers.includes(template.tier) ) {
+					return [set.species + ' is not useable in Randommons.'];
+				}
+			}
+		},
 		teambuilderFormat: "Rand",
 	},
 	{
