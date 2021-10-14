@@ -1835,6 +1835,7 @@ export class TeamValidator {
 		 */
 		const noFutureGen = !ruleTable.has('allowtradeback');
 
+		const canSketchGen8Moves = ruleTable.has('sketchgen8moves');
 		let tradebackEligible = false;
 		while (species?.name && !alreadyChecked[species.id]) {
 			alreadyChecked[species.id] = true;
@@ -1871,7 +1872,7 @@ export class TeamValidator {
 				if (moveid === 'sketch' || !lset || species.id === 'smeargle') {
 					// The logic behind this comes from the idea that a Pokemon that learns Sketch
 					// should be able to Sketch any move before transferring into Generation 8.
-					if (move.noSketch || move.isZ || move.isMax || (move.gen > 7 && !this.format.id.includes('nationaldex'))) {
+					if (move.noSketch || move.isZ || move.isMax || (move.gen > 7 && !canSketchGen8Moves)) {
 						return {type: 'invalid'};
 					}
 					lset = lsetData.learnset['sketch'];
