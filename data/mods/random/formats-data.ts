@@ -2649,7 +2649,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	difficultjaguar: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	passivetiger: {
 		tier: "Rand",
