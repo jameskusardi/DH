@@ -1074,7 +1074,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	probableweasel: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	impressedshark: {
 		tier: "Rand",
@@ -2367,7 +2367,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	convincedbee: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	unpleasantharrier: {
 		tier: "Rand",
