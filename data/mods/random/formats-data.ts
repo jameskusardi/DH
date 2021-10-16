@@ -381,7 +381,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	rudesquirrel: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	changingdinosaur: {
 		tier: "Rand",
@@ -576,7 +576,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	injuredbear: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	militarymite: {
 		tier: "Rand",
@@ -1170,7 +1170,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	internalgopher: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	respectivemagpie: {
 		tier: "Rand",
@@ -1218,7 +1218,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	stablebat: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	superiorgoat: {
 		tier: "Rand",
@@ -1827,7 +1827,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	sufficientbandicoot: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	yieldingtarsier: {
 		tier: "Rand",
@@ -2052,7 +2052,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	quixoticlungfish: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	developedspider: {
 		tier: "Rand",
@@ -2433,7 +2433,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	yearningtoucan: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	fashionablesnake: {
 		tier: "Rand",
@@ -2805,7 +2805,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	betterpossum: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	filthyanteater: {
 		tier: "Rand",
