@@ -198,7 +198,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	parallelfox: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	limitedurial: {
 		tier: "Rand",
@@ -570,7 +570,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	autonomouswolf: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	naturalthrush: {
 		tier: "Rand",
