@@ -3016,7 +3016,7 @@ export const Formats: FormatList = [
 		teambuilderFormat: "Rand",
 	},
 	{
-		name: "[Gen 8] Randommons (No Sus)",
+		name: "[Gen 8] Randommons No Sus",
 		desc: `<b>Randommons</b>: In this Solomod, I have coded 1000 randomly generated Fakemon, complete with randomly assigned types, stats, abilities, weights, and learnsets!`,
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/solomods-megathread.3660004/page-4#post-9002827">Randommons Metagame Forum Post</a>`,
@@ -3033,7 +3033,7 @@ export const Formats: FormatList = [
 			for (const set of team) {
 				let template = this.dex.getSpecies(set.species);
 				if ( !allowedTiers.includes(template.tier) ) {
-					return [set.species + ' is not useable in Randommons (No Sus).'];
+					return [set.species + ' is not useable in Randommons No Sus.'];
 				}
 			}
 		},
