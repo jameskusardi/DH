@@ -32,6 +32,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sunnylark: {
 		learnset: {
+			uturn: ["8L1"],
+			strugglebug: ["8L1"],
 			stickyweb: ["8L1"],
 			ingrain: ["8L1"],
 			quash: ["8L1"],
@@ -307,6 +309,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	impressedlungfish: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
 			gunkshot: ["8L1"],
 			poisonjab: ["8L1"],
 			sludgebomb: ["8L1"],
@@ -438,6 +442,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	musicalfox: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			bravebird: ["8L1"],
 			acrobatics: ["8L1"],
 			mistyterrain: ["8L1"],
@@ -484,6 +492,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	forthcomingsnail: {
 		learnset: {
+			uturn: ["8L1"],
 			breakingswipe: ["8L1"],
 			magicpowder: ["8L1"],
 			leechlife: ["8L1"],
@@ -746,6 +755,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	embarrassedquokka: {
 		learnset: {
+			xscissor: ["8L1"],
+			strugglebug: ["8L1"],
 			quash: ["8L1"],
 			conversion2: ["8L1"],
 			skillswap: ["8L1"],
@@ -957,6 +968,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	circularurial: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
 			return: ["8L1"],
 			hypervoice: ["8L1"],
 			iondeluge: ["8L1"],
@@ -1097,6 +1111,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	wetcockroach: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
 			rototiller: ["8L1"],
 			metalburst: ["8L1"],
 			uturn: ["8L1"],
@@ -1204,6 +1220,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	alliedleech: {
 		learnset: {
+			uturn: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
+			shadowball: ["8L1"],
 			dragonenergy: ["8L1"],
 			shadowbone: ["8L1"],
 			quickguard: ["8L1"],
@@ -1271,6 +1291,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	moderatemastodon: {
 		learnset: {
+			stoneedge: ["8L1"],
 			teeterdance: ["8L1"],
 			risingvoltage: ["8L1"],
 			incinerate: ["8L1"],
@@ -1302,6 +1323,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	nativemouse: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			landswrath: ["8L1"],
 			bodyslam: ["8L1"],
 			mirrorshot: ["8L1"],
@@ -1750,6 +1775,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	eventualcrab: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			firefang: ["8L1"],
 			powertrip: ["8L1"],
 			pluck: ["8L1"],
@@ -1792,6 +1820,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	prominentmollusk: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			hiddenpowerdark: ["8L1"],
 			surf: ["8L1"],
 			fairywind: ["8L1"],
@@ -1885,6 +1916,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	importantmoose: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
 			harden: ["8L1"],
 			appleacid: ["8L1"],
 			multiattack: ["8L1"],
@@ -1961,6 +1994,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	propersilverfish: {
 		learnset: {
+			shadowball: ["8L1"],
 			growth: ["8L1"],
 			sludgewave: ["8L1"],
 			incinerate: ["8L1"],
@@ -2008,6 +2042,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	maleheron: {
 		learnset: {
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			fishiousrend: ["8L1"],
 			seismictoss: ["8L1"],
 			floralhealing: ["8L1"],
@@ -2048,6 +2085,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	inevitablehummingbird: {
 		learnset: {
+			uturn: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			earthquake: ["8L1"],
 			bonemarang: ["8L1"],
 			milkdrink: ["8L1"],
@@ -2308,6 +2348,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	superbhedgehog: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
 			return: ["8L1"],
 			hypervoice: ["8L1"],
 			triattack: ["8L1"],
@@ -2337,6 +2379,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	anonymousporpoise: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			hypervoice: ["8L1"],
 			faketears: ["8L1"],
 			payback: ["8L1"],
@@ -2502,6 +2548,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	subtledolphin: {
 		learnset: {
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			bravebird: ["8L1"],
 			acrobatics: ["8L1"],
 			aeroblast: ["8L1"],
@@ -2593,6 +2641,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	commongoldfish: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			heatcrash: ["8L1"],
 			irondefense: ["8L1"],
 			bellydrum: ["8L1"],
@@ -2722,6 +2774,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	legitimategopher: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			throatchop: ["8L1"],
 			mist: ["8L1"],
 			simplebeam: ["8L1"],
@@ -3145,6 +3201,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	precisetiger: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			strugglebug: ["8L1"],
 			defendorder: ["8L1"],
 			drillpeck: ["8L1"],
 			dreameater: ["8L1"],
@@ -3181,6 +3240,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	temporarygoose: {
 		learnset: {
+			strugglebug: ["8L1"],
 			falseswipe: ["8L1"],
 			twister: ["8L1"],
 			pound: ["8L1"],
@@ -3295,6 +3355,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	conservationcatshark: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
 			machpunch: ["8L1"],
 			iondeluge: ["8L1"],
 			detect: ["8L1"],
@@ -3458,6 +3520,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	jitteryjellyfish: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			brickbreak: ["8L1"],
 			closecombat: ["8L1"],
 			aurasphere: ["8L1"],
@@ -3544,6 +3609,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	poormouse: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			mist: ["8L1"],
 			confuseray: ["8L1"],
 			assist: ["8L1"],
@@ -3641,6 +3709,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	extensiverodent: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			gunkshot: ["8L1"],
 			poisonjab: ["8L1"],
 			sludgewave: ["8L1"],
@@ -3931,6 +4003,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	convenientbandicoot: {
 		learnset: {
+			xscissor: ["8L1"],
 			bravebird: ["8L1"],
 			acrobatics: ["8L1"],
 			magmastorm: ["8L1"],
@@ -4028,6 +4101,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	outdoorheron: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			flail: ["8L1"],
 			astonish: ["8L1"],
 			dragonenergy: ["8L1"],
@@ -4067,6 +4143,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	excesslemur: {
 		learnset: {
+			uturn: ["8L1"],
+			strugglebug: ["8L1"],
 			precipiceblades: ["8L1"],
 			megakick: ["8L1"],
 			junglehealing: ["8L1"],
@@ -4182,6 +4260,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	chronicsilverfish: {
 		learnset: {
+			rockslide: ["8L1"],
 			return: ["8L1"],
 			hypervoice: ["8L1"],
 			triattack: ["8L1"],
@@ -4261,6 +4340,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	stripedfly: {
 		learnset: {
+			stoneedge: ["8L1"],
+			ancientpower: ["8L1"],
 			clearsmog: ["8L1"],
 			magnetrise: ["8L1"],
 			hammerarm: ["8L1"],
@@ -4488,6 +4569,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	changingdinosaur: {
 		learnset: {
+			stoneedge: ["8L1"],
+			ancientpower: ["8L1"],
 			howl: ["8L1"],
 			substitute: ["8L1"],
 			vitalthrow: ["8L1"],
@@ -4646,6 +4729,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	correctpheasant: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			earthquake: ["8L1"],
 			bonemarang: ["8L1"],
 			scorchingsands: ["8L1"],
@@ -4750,6 +4836,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	franticaardvark: {
 		learnset: {
+			shadowclaw: ["8L1"],
 			magicroom: ["8L1"],
 			dragonrush: ["8L1"],
 			bonerush: ["8L1"],
@@ -4862,6 +4949,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	onlyplanarian: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			taunt: ["8L1"],
 			accelerock: ["8L1"],
 			poisonfang: ["8L1"],
@@ -4904,6 +4995,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	jealoustoucan: {
 		learnset: {
+			ancientpower: ["8L1"],
 			sandstorm: ["8L1"],
 			hiddenpowersteel: ["8L1"],
 			toxic: ["8L1"],
@@ -4995,6 +5087,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	amateurlimpet: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			powertrick: ["8L1"],
 			coreenforcer: ["8L1"],
 			healbell: ["8L1"],
@@ -5022,6 +5118,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	psychiatricquail: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			earthquake: ["8L1"],
 			bonemarang: ["8L1"],
 			earthpower: ["8L1"],
@@ -5107,6 +5207,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	giantparrot: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
 			glaciallance: ["8L1"],
 			firespin: ["8L1"],
 			megahorn: ["8L1"],
@@ -5197,6 +5299,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	registeredskunk: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			poisonsting: ["8L1"],
 			screech: ["8L1"],
 			bulkup: ["8L1"],
@@ -5276,6 +5382,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	classiclizard: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			doubleteam: ["8L1"],
 			fishiousrend: ["8L1"],
 			fireblast: ["8L1"],
@@ -5333,6 +5443,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	inappropriatedove: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			bravebird: ["8L1"],
 			acrobatics: ["8L1"],
 			oblivionwing: ["8L1"],
@@ -5446,6 +5559,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	monthlyiguana: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			solarblade: ["8L1"],
 			dualchop: ["8L1"],
 			grassknot: ["8L1"],
@@ -5472,6 +5589,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	annualwalrus: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			dragonrage: ["8L1"],
 			charge: ["8L1"],
 			breakingswipe: ["8L1"],
@@ -5574,6 +5695,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	steepox: {
 		learnset: {
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			needlearm: ["8L1"],
 			holdhands: ["8L1"],
 			accelerock: ["8L1"],
@@ -5712,6 +5836,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	digitalrook: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			hyperbeam: ["8L1"],
 			obstruct: ["8L1"],
 			disarmingvoice: ["8L1"],
@@ -5737,6 +5864,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	decentwasp: {
 		learnset: {
+			stoneedge: ["8L1"],
+			ancientpower: ["8L1"],
 			poisonfang: ["8L1"],
 			spore: ["8L1"],
 			flyingpress: ["8L1"],
@@ -5862,6 +5991,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	primequelea: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
 			earthquake: ["8L1"],
 			bonemarang: ["8L1"],
 			earthpower: ["8L1"],
@@ -6035,6 +6167,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	principallimpet: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			hiddenpowerghost: ["8L1"],
 			lastresort: ["8L1"],
 			gastroacid: ["8L1"],
@@ -6098,6 +6233,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	wittydog: {
 		learnset: {
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			earthquake: ["8L1"],
 			bonemarang: ["8L1"],
 			scorchingsands: ["8L1"],
@@ -6237,6 +6374,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	weecrawdad: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
 			leafblade: ["8L1"],
 			obstruct: ["8L1"],
 			playnice: ["8L1"],
@@ -6616,6 +6756,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	yodellinghookworm: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			paraboliccharge: ["8L1"],
 			thundercage: ["8L1"],
 			dig: ["8L1"],
@@ -6652,6 +6796,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	unchangedcrawdad: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			return: ["8L1"],
 			hypervoice: ["8L1"],
 			glaciate: ["8L1"],
@@ -6920,6 +7068,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	variablemandrill: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			burnup: ["8L1"],
 			fusionbolt: ["8L1"],
 			helpinghand: ["8L1"],
@@ -7314,6 +7465,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	uptightgoat: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			strugglebug: ["8L1"],
 			needlearm: ["8L1"],
 			futuresight: ["8L1"],
 			constrict: ["8L1"],
@@ -7393,6 +7547,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	livelylobster: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			ragepowder: ["8L1"],
 			boltbeak: ["8L1"],
 			stunspore: ["8L1"],
@@ -7464,6 +7621,12 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	multiplekingfisher: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			strugglebug: ["8L1"],
 			fissure: ["8L1"],
 			belch: ["8L1"],
 			painsplit: ["8L1"],
@@ -7766,6 +7929,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rulingrooster: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			bravebird: ["8L1"],
 			oblivionwing: ["8L1"],
 			fairylock: ["8L1"],
@@ -7845,6 +8012,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	funocelot: {
 		learnset: {
+			rockslide: ["8L1"],
+			powergem: ["8L1"],
 			healingwish: ["8L1"],
 			grassyglide: ["8L1"],
 			electricterrain: ["8L1"],
@@ -7941,6 +8110,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	retailcephalopod: {
 		learnset: {
+			rockslide: ["8L1"],
+			powergem: ["8L1"],
 			bravebird: ["8L1"],
 			acrobatics: ["8L1"],
 			nightmare: ["8L1"],
@@ -7972,6 +8143,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ashamedcuckoo: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			ancientpower: ["8L1"],
 			return: ["8L1"],
 			aquaring: ["8L1"],
 			poltergeist: ["8L1"],
@@ -8074,6 +8248,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	statisticalturtle: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			mirrorcoat: ["8L1"],
 			coreenforcer: ["8L1"],
 			scaryface: ["8L1"],
@@ -8144,6 +8322,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	backfowl: {
 		learnset: {
+			rockslide: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			telekinesis: ["8L1"],
 			thrash: ["8L1"],
 			snatch: ["8L1"],
@@ -8358,6 +8539,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	selectiverodent: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			roost: ["8L1"],
 			spore: ["8L1"],
 			blastburn: ["8L1"],
@@ -8526,6 +8710,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	nastyarmadillo: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			bubblebeam: ["8L1"],
 			doomdesire: ["8L1"],
 			fellstinger: ["8L1"],
@@ -8656,6 +8844,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	globalgull: {
 		learnset: {
+			xscissor: ["8L1"],
+			strugglebug: ["8L1"],
 			earthquake: ["8L1"],
 			bonemarang: ["8L1"],
 			earthpower: ["8L1"],
@@ -8930,6 +9120,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	certainbasilisk: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			reversal: ["8L1"],
 			bind: ["8L1"],
 			thunder: ["8L1"],
@@ -9048,6 +9242,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	nervousantelope: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			shadowball: ["8L1"],
 			dualchop: ["8L1"],
 			aurasphere: ["8L1"],
 			doubleslap: ["8L1"],
@@ -9135,6 +9331,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	secureworm: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			brickbreak: ["8L1"],
 			closecombat: ["8L1"],
 			aurasphere: ["8L1"],
@@ -9195,6 +9394,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	viciouspanther: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			shadowball: ["8L1"],
 			payday: ["8L1"],
 			dragonhammer: ["8L1"],
 			quiverdance: ["8L1"],
@@ -9241,6 +9443,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	contentpheasant: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			thunder: ["8L1"],
 			leafage: ["8L1"],
 			iciclespear: ["8L1"],
@@ -9431,6 +9636,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	navaltuna: {
 		learnset: {
+			strugglebug: ["8L1"],
 			transform: ["8L1"],
 			doublekick: ["8L1"],
 			teleport: ["8L1"],
@@ -9498,6 +9704,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	wilfulearwig: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			toxic: ["8L1"],
 			earthpower: ["8L1"],
 			synthesis: ["8L1"],
@@ -9690,6 +9899,13 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	juniorcaribou: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
+			uturn: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			captivate: ["8L1"],
 			dig: ["8L1"],
 			acidspray: ["8L1"],
@@ -9779,6 +9995,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	profitableemu: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			spiritshackle: ["8L1"],
 			thief: ["8L1"],
 			playnice: ["8L1"],
@@ -10415,6 +10635,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	inlandcanid: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
 			fakeout: ["8L1"],
 			mysticalfire: ["8L1"],
 			spite: ["8L1"],
@@ -10471,6 +10693,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	supposedpig: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			signalbeam: ["8L1"],
 			coil: ["8L1"],
 			thunderpunch: ["8L1"],
@@ -10520,6 +10744,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gorgeouspeacock: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			shadowball: ["8L1"],
 			cometpunch: ["8L1"],
 			recover: ["8L1"],
 			fusionflare: ["8L1"],
@@ -10561,6 +10788,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	indirectbedbug: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			shadowpunch: ["8L1"],
 			confuseray: ["8L1"],
 			copycat: ["8L1"],
@@ -10703,6 +10934,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	straightforwardcougar: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			earthquake: ["8L1"],
 			bonemarang: ["8L1"],
 			scorchingsands: ["8L1"],
@@ -10745,6 +10980,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	combativetoucan: {
 		learnset: {
+			rockslide: ["8L1"],
+			powergem: ["8L1"],
 			smokescreen: ["8L1"],
 			headsmash: ["8L1"],
 			ragepowder: ["8L1"],
@@ -10777,6 +11014,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	followinglimpet: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
 			solarblade: ["8L1"],
 			assist: ["8L1"],
 			rage: ["8L1"],
@@ -11054,6 +11293,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	incrediblelemming: {
 		learnset: {
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			magicroom: ["8L1"],
 			guardswap: ["8L1"],
 			harden: ["8L1"],
@@ -11362,6 +11604,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	poorquail: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
 			return: ["8L1"],
 			hypervoice: ["8L1"],
 			psychup: ["8L1"],
@@ -11506,6 +11751,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	tenseraven: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			aurorabeam: ["8L1"],
 			petalblizzard: ["8L1"],
 			infestation: ["8L1"],
@@ -11594,6 +11841,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	likelyimpala: {
 		learnset: {
+			strugglebug: ["8L1"],
 			dragonbreath: ["8L1"],
 			bravebird: ["8L1"],
 			forestscurse: ["8L1"],
@@ -11728,6 +11976,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	likebobolink: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
 			explosion: ["8L1"],
 			endeavor: ["8L1"],
 			healbell: ["8L1"],
@@ -11922,6 +12173,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	greasymink: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			smellingsalts: ["8L1"],
 			mudslap: ["8L1"],
 			meanlook: ["8L1"],
@@ -12012,6 +12267,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	entirecardinal: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			oblivionwing: ["8L1"],
 			metalclaw: ["8L1"],
 			tarshot: ["8L1"],
@@ -12038,6 +12297,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	developedleopard: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			hurricane: ["8L1"],
 			meanlook: ["8L1"],
 			glaciate: ["8L1"],
@@ -12127,6 +12389,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	torygalliform: {
 		learnset: {
+			stoneedge: ["8L1"],
+			ancientpower: ["8L1"],
 			powerswap: ["8L1"],
 			screech: ["8L1"],
 			naturesmadness: ["8L1"],
@@ -12162,6 +12426,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	breezyllama: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowball: ["8L1"],
 			bravebird: ["8L1"],
 			acrobatics: ["8L1"],
 			aeroblast: ["8L1"],
@@ -12191,6 +12457,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	swiftcougar: {
 		learnset: {
+			xscissor: ["8L1"],
 			vcreate: ["8L1"],
 			scratch: ["8L1"],
 			overheat: ["8L1"],
@@ -12482,6 +12749,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	imperialrattlesnake: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
 			shadowforce: ["8L1"],
 			nightshade: ["8L1"],
 			fairylock: ["8L1"],
@@ -12709,6 +12978,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	comprehensivemeadowlark: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			closecombat: ["8L1"],
 			aurasphere: ["8L1"],
 			hyperbeam: ["8L1"],
@@ -12823,6 +13095,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	maximumwolf: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			camouflage: ["8L1"],
 			coreenforcer: ["8L1"],
 			surf: ["8L1"],
@@ -13110,6 +13385,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lexicalguppy: {
 		learnset: {
+			hex: ["8L1"],
 			selfdestruct: ["8L1"],
 			shadowball: ["8L1"],
 			leechseed: ["8L1"],
@@ -13138,6 +13414,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	subtletrout: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
 			paleowave: ["8L1"],
 			conversion: ["8L1"],
 			attackorder: ["8L1"],
@@ -13227,6 +13506,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	amateurmacaw: {
 		learnset: {
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			firepledge: ["8L1"],
 			sunnyday: ["8L1"],
 			firstimpression: ["8L1"],
@@ -13266,6 +13547,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	efficientlemming: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			brine: ["8L1"],
 			chatter: ["8L1"],
 			powergem: ["8L1"],
@@ -13359,6 +13643,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	unitedsawfish: {
 		learnset: {
+			rockslide: ["8L1"],
+			powergem: ["8L1"],
 			signalbeam: ["8L1"],
 			peck: ["8L1"],
 			spikes: ["8L1"],
@@ -13503,6 +13789,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	eagerrabbit: {
 		learnset: {
+			uturn: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			rototiller: ["8L1"],
 			icebeam: ["8L1"],
 			scaryface: ["8L1"],
@@ -13533,6 +13822,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	fasthalibut: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			shadowball: ["8L1"],
 			aquatail: ["8L1"],
 			glaciate: ["8L1"],
 			obstruct: ["8L1"],
@@ -13614,6 +13906,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	creativebird: {
 		learnset: {
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			helpinghand: ["8L1"],
 			coil: ["8L1"],
 			magicpowder: ["8L1"],
@@ -13676,6 +13971,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gratefulsalmon: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			smartstrike: ["8L1"],
 			lavaplume: ["8L1"],
 			skyattack: ["8L1"],
@@ -13897,6 +14195,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	zippyhoverfly: {
 		learnset: {
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			return: ["8L1"],
 			triattack: ["8L1"],
 			shadowclaw: ["8L1"],
@@ -13931,6 +14232,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rapidwildcat: {
 		learnset: {
+			hex: ["8L1"],
 			dragonenergy: ["8L1"],
 			skullbash: ["8L1"],
 			mefirst: ["8L1"],
@@ -14439,6 +14741,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	freebison: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			soak: ["8L1"],
 			rockpolish: ["8L1"],
 			substitute: ["8L1"],
@@ -14594,6 +14900,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	funspoonbill: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			crunch: ["8L1"],
 			shadowbone: ["8L1"],
 			seedbomb: ["8L1"],
@@ -14766,6 +15075,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	risingox: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
 			irontail: ["8L1"],
 			tickle: ["8L1"],
 			guillotine: ["8L1"],
@@ -14811,6 +15123,12 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	distinguishedcricket: {
 		learnset: {
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			outrage: ["8L1"],
 			rage: ["8L1"],
 			pyroball: ["8L1"],
@@ -15179,6 +15497,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	publicchimpanzee: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			bonemarang: ["8L1"],
 			shadowsneak: ["8L1"],
 			darkvoid: ["8L1"],
@@ -15316,6 +15638,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	integralkiwi: {
 		learnset: {
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			bravebird: ["8L1"],
 			aeroblast: ["8L1"],
 			oblivionwing: ["8L1"],
@@ -15462,6 +15786,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hugemockingbird: {
 		learnset: {
+			rockslide: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			bounce: ["8L1"],
 			mistball: ["8L1"],
 			electricterrain: ["8L1"],
@@ -15565,6 +15892,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	psychologicalbug: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowball: ["8L1"],
 			quash: ["8L1"],
 			diamondstorm: ["8L1"],
 			venoshock: ["8L1"],
@@ -15629,6 +15958,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	magneticscallop: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			stomp: ["8L1"],
 			roaroftime: ["8L1"],
 			trumpcard: ["8L1"],
@@ -15859,6 +16191,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	nastycoyote: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			strugglebug: ["8L1"],
 			autotomize: ["8L1"],
 			razorleaf: ["8L1"],
 			eggbomb: ["8L1"],
@@ -16022,6 +16357,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	aggregateclownfish: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			multiattack: ["8L1"],
 			iceburn: ["8L1"],
 			liquidation: ["8L1"],
@@ -16290,6 +16629,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	increaseddeer: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			crushclaw: ["8L1"],
 			tearfullook: ["8L1"],
 			metalclaw: ["8L1"],
@@ -16455,6 +16798,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	largecattle: {
 		learnset: {
+			uturn: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			furycutter: ["8L1"],
 			harden: ["8L1"],
 			infestation: ["8L1"],
@@ -16639,6 +16985,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	obnoxiousbandicoot: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			kingsshield: ["8L1"],
 			bind: ["8L1"],
 			venoshock: ["8L1"],
@@ -16706,6 +17056,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	preciousshark: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			topsyturvy: ["8L1"],
 			accelerock: ["8L1"],
 			pound: ["8L1"],
@@ -16743,6 +17097,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rarefox: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
 			gunkshot: ["8L1"],
 			sludgewave: ["8L1"],
 			drillrun: ["8L1"],
@@ -16955,6 +17312,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	conventionalherring: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			doubleedge: ["8L1"],
 			hypervoice: ["8L1"],
 			triattack: ["8L1"],
@@ -17226,6 +17587,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	secondarysnake: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			defensecurl: ["8L1"],
 			partingshot: ["8L1"],
 			closecombat: ["8L1"],
@@ -17429,6 +17794,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	inappropriatealligator: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			shadowball: ["8L1"],
 			astralbarrage: ["8L1"],
 			calmmind: ["8L1"],
 			tailwhip: ["8L1"],
@@ -17626,6 +17994,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	xericbovid: {
 		learnset: {
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			bravebird: ["8L1"],
 			acrobatics: ["8L1"],
 			oblivionwing: ["8L1"],
@@ -17681,6 +18051,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	liquideel: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			floralhealing: ["8L1"],
 			firepledge: ["8L1"],
 			surgingstrikes: ["8L1"],
@@ -17884,6 +18257,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	unchangeddeer: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			rollingkick: ["8L1"],
 			bide: ["8L1"],
 			steelwing: ["8L1"],
@@ -17910,6 +18287,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	icylemur: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			shadowclaw: ["8L1"],
 			outrage: ["8L1"],
 			lightscreen: ["8L1"],
@@ -18208,6 +18588,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	functionalboar: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
 			thunderpunch: ["8L1"],
 			venomdrench: ["8L1"],
 			synthesis: ["8L1"],
@@ -18314,6 +18696,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	awfulhalibut: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			scald: ["8L1"],
 			payback: ["8L1"],
 			ominouswind: ["8L1"],
@@ -18343,6 +18728,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	presentparakeet: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			barrage: ["8L1"],
 			finalgambit: ["8L1"],
 			stringshot: ["8L1"],
@@ -18490,6 +18879,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	enormousquelea: {
 		learnset: {
+			uturn: ["8L1"],
+			bugbuzz: ["8L1"],
 			frenzyplant: ["8L1"],
 			megahorn: ["8L1"],
 			simplebeam: ["8L1"],
@@ -18569,6 +18960,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	staticdingo: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowball: ["8L1"],
 			rockclimb: ["8L1"],
 			gastroacid: ["8L1"],
 			ingrain: ["8L1"],
@@ -18593,6 +18986,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	civilkangaroo: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			extrasensory: ["8L1"],
 			sludgewave: ["8L1"],
 			nightslash: ["8L1"],
@@ -18623,6 +19020,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	politicalpartridge: {
 		learnset: {
+			bugbuzz: ["8L1"],
 			spark: ["8L1"],
 			vacuumwave: ["8L1"],
 			darkvoid: ["8L1"],
@@ -18738,6 +19136,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	significantmonkey: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			milkdrink: ["8L1"],
 			conversion2: ["8L1"],
 			relicsong: ["8L1"],
@@ -18802,6 +19204,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	unacceptablepartridge: {
 		learnset: {
+			uturn: ["8L1"],
+			bugbuzz: ["8L1"],
 			earthquake: ["8L1"],
 			bonemarang: ["8L1"],
 			earthpower: ["8L1"],
@@ -18837,6 +19241,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	smoothtermite: {
 		learnset: {
+			rockslide: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			extrasensory: ["8L1"],
 			coreenforcer: ["8L1"],
 			hammerarm: ["8L1"],
@@ -18880,6 +19287,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	broadcamel: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			landswrath: ["8L1"],
 			petaldance: ["8L1"],
 			drillpeck: ["8L1"],
@@ -19022,6 +19432,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	foolishpuffin: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			ancientpower: ["8L1"],
 			seismictoss: ["8L1"],
 			behemothblade: ["8L1"],
 			hex: ["8L1"],
@@ -19194,6 +19607,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	fancyalpaca: {
 		learnset: {
+			xscissor: ["8L1"],
+			strugglebug: ["8L1"],
 			mistyterrain: ["8L1"],
 			iciclecrash: ["8L1"],
 			beatup: ["8L1"],
@@ -19262,6 +19677,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	xericshark: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			detect: ["8L1"],
 			rockpolish: ["8L1"],
 			diamondstorm: ["8L1"],
@@ -19351,6 +19768,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	luckybeetle: {
 		learnset: {
+			xscissor: ["8L1"],
+			strugglebug: ["8L1"],
 			brickbreak: ["8L1"],
 			closecombat: ["8L1"],
 			aurasphere: ["8L1"],
@@ -19653,6 +20072,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	socialistbeaver: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
 			gigadrain: ["8L1"],
 			phantomforce: ["8L1"],
 			dualchop: ["8L1"],
@@ -19814,6 +20236,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	yelpingangelfish: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			explosion: ["8L1"],
 			seedflare: ["8L1"],
 			roleplay: ["8L1"],
@@ -20128,6 +20554,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	baregiraffe: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
 			signalbeam: ["8L1"],
 			sheercold: ["8L1"],
 			rockwrecker: ["8L1"],
@@ -20239,6 +20667,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	fitwren: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			skittersmack: ["8L1"],
 			powerwhip: ["8L1"],
 			afteryou: ["8L1"],
@@ -20661,6 +21093,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	crucialleopard: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			doubleedge: ["8L1"],
 			return: ["8L1"],
 			triattack: ["8L1"],
@@ -20830,6 +21265,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	xenogeneiccentipede: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			bulkup: ["8L1"],
 			shadowstrike: ["8L1"],
 			jumpkick: ["8L1"],
@@ -20904,6 +21343,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	stingychameleon: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
 			doubleslap: ["8L1"],
 			blastburn: ["8L1"],
 			hiddenpowerdragon: ["8L1"],
@@ -20996,6 +21437,13 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	goldenfinch: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
 			icehammer: ["8L1"],
 			doublehit: ["8L1"],
 			roar: ["8L1"],
@@ -21025,6 +21473,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	survivingdove: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
 			ragepowder: ["8L1"],
 			shockwave: ["8L1"],
 			firelash: ["8L1"],
@@ -21094,6 +21544,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	distinguishedmarmot: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			magnetrise: ["8L1"],
 			lowkick: ["8L1"],
 			steelwing: ["8L1"],
@@ -21419,6 +21871,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	negativeflyingfish: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			mistyexplosion: ["8L1"],
 			venoshock: ["8L1"],
 			fusionbolt: ["8L1"],
@@ -21629,6 +22085,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	unchangedbutterfly: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
 			bonerush: ["8L1"],
 			poisonpowder: ["8L1"],
 			autotomize: ["8L1"],
@@ -21924,6 +22382,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	charminghyena: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			burnup: ["8L1"],
 			drainpunch: ["8L1"],
 			snipeshot: ["8L1"],
@@ -21956,6 +22418,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	comprehensivechipmunk: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			spiderweb: ["8L1"],
 			substitute: ["8L1"],
 			meanlook: ["8L1"],
@@ -22553,6 +23019,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	dualwallaby: {
 		learnset: {
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			mirrorcoat: ["8L1"],
 			magnetrise: ["8L1"],
 			courtchange: ["8L1"],
@@ -22881,6 +23349,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sensitiveape: {
 		learnset: {
+			shadowclaw: ["8L1"],
 			lunge: ["8L1"],
 			flamethrower: ["8L1"],
 			dynamicpunch: ["8L1"],
@@ -22954,6 +23423,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	adversedonkey: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			spore: ["8L1"],
 			scaryface: ["8L1"],
 			bodypress: ["8L1"],
@@ -23169,6 +23642,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	suddennewt: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			shadowball: ["8L1"],
 			bravebird: ["8L1"],
 			acrobatics: ["8L1"],
 			aeroblast: ["8L1"],
@@ -23212,6 +23687,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	evidentpuma: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			eerieimpulse: ["8L1"],
 			steameruption: ["8L1"],
 			detect: ["8L1"],
@@ -23279,6 +23757,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	nuttyhare: {
 		learnset: {
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			mudbomb: ["8L1"],
 			thousandwaves: ["8L1"],
 			stunspore: ["8L1"],
@@ -23397,6 +23877,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	relatedpiranha: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			synchronoise: ["8L1"],
 			selfdestruct: ["8L1"],
 			sharpen: ["8L1"],
@@ -23442,6 +23925,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	likelybedbug: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			suckerpunch: ["8L1"],
 			icebeam: ["8L1"],
 			hiddenpowerdragon: ["8L1"],
@@ -23547,6 +24034,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	federalpigeon: {
 		learnset: {
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
 			poweruppunch: ["8L1"],
 			defendorder: ["8L1"],
 			energyball: ["8L1"],
@@ -23583,6 +24074,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	socialanteater: {
 		learnset: {
+			uturn: ["8L1"],
+			strugglebug: ["8L1"],
 			sludgewave: ["8L1"],
 			rapidspin: ["8L1"],
 			aurawheel: ["8L1"],
@@ -23647,6 +24140,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	grotesquemarten: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
 			magicpowder: ["8L1"],
 			judgment: ["8L1"],
 			dazzlinggleam: ["8L1"],
@@ -23763,6 +24259,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	deepfirefly: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			landswrath: ["8L1"],
 			banefulbunker: ["8L1"],
 			hornattack: ["8L1"],
@@ -23842,6 +24341,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	religiousblackbird: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			rollingkick: ["8L1"],
 			protect: ["8L1"],
 			safeguard: ["8L1"],
@@ -23869,6 +24371,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	obligednewt: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			leechseed: ["8L1"],
 			spotlight: ["8L1"],
 			lovelykiss: ["8L1"],
@@ -23904,6 +24410,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	interestingsparrow: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			shadowball: ["8L1"],
 			uproar: ["8L1"],
 			extremespeed: ["8L1"],
 			headsmash: ["8L1"],
@@ -24141,6 +24650,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	verticalblackbird: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			shadowpunch: ["8L1"],
 			kinesis: ["8L1"],
 			hiddenpowerghost: ["8L1"],
@@ -24641,6 +25154,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	urgentbison: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
 			gunkshot: ["8L1"],
 			poisonjab: ["8L1"],
 			sludgebomb: ["8L1"],
@@ -24987,6 +25502,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	overwhelmingvicuna: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
 			eternabeam: ["8L1"],
 			nightmare: ["8L1"],
 			icywind: ["8L1"],
@@ -25014,6 +25532,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	uncomfortablewoodpecker: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			ancientpower: ["8L1"],
 			focuspunch: ["8L1"],
 			spark: ["8L1"],
 			mindreader: ["8L1"],
@@ -25042,6 +25563,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	coolperch: {
 		learnset: {
+			uturn: ["8L1"],
+			bugbuzz: ["8L1"],
 			flamecharge: ["8L1"],
 			flatter: ["8L1"],
 			cottonguard: ["8L1"],
@@ -25222,6 +25745,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	civilianfrog: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
 			entrainment: ["8L1"],
 			retaliate: ["8L1"],
 			rest: ["8L1"],
@@ -25362,6 +25887,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	controlledbeetle: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			powergem: ["8L1"],
 			pluck: ["8L1"],
 			mudsport: ["8L1"],
@@ -25458,6 +25987,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gladmonkey: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			bonemarang: ["8L1"],
 			earthpower: ["8L1"],
 			grassyterrain: ["8L1"],
@@ -25540,6 +26072,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	frequentaardvark: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			hiddenpowerpoison: ["8L1"],
 			tropkick: ["8L1"],
 			mudshot: ["8L1"],
@@ -25641,6 +26177,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	absoluteape: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			doubleedge: ["8L1"],
 			return: ["8L1"],
 			hypervoice: ["8L1"],
@@ -26036,6 +26575,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	usualbeetle: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			gunkshot: ["8L1"],
 			poisonjab: ["8L1"],
 			sludgebomb: ["8L1"],
@@ -26094,6 +26637,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	spatialwhippet: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			ancientpower: ["8L1"],
 			stunspore: ["8L1"],
 			poisonpowder: ["8L1"],
 			toxicspikes: ["8L1"],
@@ -26137,6 +26683,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	occasionalhedgehog: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			brickbreak: ["8L1"],
 			closecombat: ["8L1"],
 			aurasphere: ["8L1"],
@@ -26177,6 +26727,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	lineartiglon: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			grudge: ["8L1"],
 			freezedry: ["8L1"],
 			thunder: ["8L1"],
@@ -26291,6 +26844,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	seniormink: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			shadowball: ["8L1"],
 			earthquake: ["8L1"],
 			bonemarang: ["8L1"],
 			earthpower: ["8L1"],
@@ -26373,6 +26929,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	vocationalscorpion: {
 		learnset: {
+			stoneedge: ["8L1"],
+			ancientpower: ["8L1"],
 			fling: ["8L1"],
 			spore: ["8L1"],
 			jawlock: ["8L1"],
@@ -26521,6 +27079,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	zippyfox: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			switcheroo: ["8L1"],
 			shadowclaw: ["8L1"],
 			drainpunch: ["8L1"],
@@ -26656,6 +27218,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	entitledclam: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
 			ancientpower: ["8L1"],
 			struggle: ["8L1"],
 			retaliate: ["8L1"],
@@ -26694,6 +27258,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	stupidtoucan: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			purify: ["8L1"],
 			dragonhammer: ["8L1"],
 			moongeistbeam: ["8L1"],
@@ -27036,6 +27603,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	unemployedermine: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			nastyplot: ["8L1"],
 			steelwing: ["8L1"],
 			embargo: ["8L1"],
@@ -27149,6 +27720,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	symbolicdonkey: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
 			stomp: ["8L1"],
 			sonicboom: ["8L1"],
 			drumbeating: ["8L1"],
@@ -27186,6 +27759,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	adequatealligator: {
 		learnset: {
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			luckychant: ["8L1"],
 			poisongas: ["8L1"],
 			iceball: ["8L1"],
@@ -27419,6 +27994,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	revolutionarypig: {
 		learnset: {
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
 			perishsong: ["8L1"],
 			prismaticlaser: ["8L1"],
 			hammerarm: ["8L1"],
@@ -27542,6 +28119,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	brokenbovid: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			chatter: ["8L1"],
 			closecombat: ["8L1"],
 			jawlock: ["8L1"],
@@ -28076,6 +28657,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	molecularscallop: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			poisonjab: ["8L1"],
 			sludgewave: ["8L1"],
 			hiddenpowerelectric: ["8L1"],
@@ -28120,6 +28705,13 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	sleepymule: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			bulldoze: ["8L1"],
 			surf: ["8L1"],
 			defendorder: ["8L1"],
@@ -28168,6 +28760,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	atomicboar: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			eruption: ["8L1"],
 			rockwrecker: ["8L1"],
 			leafblade: ["8L1"],
@@ -28457,6 +29053,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	helplessparakeet: {
 		learnset: {
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			muddywater: ["8L1"],
 			lightofruin: ["8L1"],
 			geomancy: ["8L1"],
@@ -28688,6 +29286,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	outdoorcatfish: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			healingwish: ["8L1"],
 			breakingswipe: ["8L1"],
 			hiddenpowerice: ["8L1"],
@@ -29091,6 +29693,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	fiscalasp: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
 			bestow: ["8L1"],
 			photongeyser: ["8L1"],
 			trumpcard: ["8L1"],
@@ -29409,6 +30014,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	gradualalpaca: {
 		learnset: {
+			shadowbone: ["8L1"],
 			guillotine: ["8L1"],
 			breakingswipe: ["8L1"],
 			bonemerang: ["8L1"],
@@ -30154,6 +30760,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	shakypeacock: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			relicsong: ["8L1"],
 			aromatherapy: ["8L1"],
 			icywind: ["8L1"],
@@ -30214,6 +30824,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	barefinch: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			allyswitch: ["8L1"],
 			secretsword: ["8L1"],
 			thundershock: ["8L1"],
@@ -30487,6 +31101,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	enthusiasticrabbit: {
 		learnset: {
+			rockslide: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			taunt: ["8L1"],
 			vacuumwave: ["8L1"],
 			roaroftime: ["8L1"],
@@ -30530,6 +31147,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	consistentcattle: {
 		learnset: {
+			shadowbone: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			dragondance: ["8L1"],
 			trickortreat: ["8L1"],
 			darkpulse: ["8L1"],
@@ -30554,6 +31174,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	zestychickadee: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			grassknot: ["8L1"],
 			roar: ["8L1"],
 			fakeout: ["8L1"],
@@ -30761,6 +31384,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	exclusiveleopon: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			hiddenpowerpsychic: ["8L1"],
 			falsesurrender: ["8L1"],
 			poisonpowder: ["8L1"],
@@ -30870,6 +31497,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	rainyguanaco: {
 		learnset: {
+			rockslide: ["8L1"],
 			trumpcard: ["8L1"],
 			darkvoid: ["8L1"],
 			lastresort: ["8L1"],
@@ -31156,6 +31784,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	depressedporcupine: {
 		learnset: {
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			payday: ["8L1"],
 			gravity: ["8L1"],
 			teleport: ["8L1"],
@@ -31196,6 +31827,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	continuingleopard: {
 		learnset: {
+			uturn: ["8L1"],
+			strugglebug: ["8L1"],
 			gunkshot: ["8L1"],
 			sludgewave: ["8L1"],
 			sludgebomb: ["8L1"],
@@ -31336,6 +31969,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	progressivepheasant: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
 			brickbreak: ["8L1"],
 			closecombat: ["8L1"],
 			aurasphere: ["8L1"],
@@ -31361,6 +31997,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	colourfulopossum: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			thousandwaves: ["8L1"],
 			seismictoss: ["8L1"],
 			shelltrap: ["8L1"],
@@ -31380,6 +32020,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	madparrotfish: {
 		learnset: {
+			powergem: ["8L1"],
 			explosion: ["8L1"],
 			rototiller: ["8L1"],
 			mudshot: ["8L1"],
@@ -31559,6 +32200,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	desperatechipmunk: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			shadowball: ["8L1"],
 			dreameater: ["8L1"],
 			ominouswind: ["8L1"],
 			bulldoze: ["8L1"],
@@ -31747,6 +32391,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	middleperch: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			astonish: ["8L1"],
 			beatup: ["8L1"],
 			spiderweb: ["8L1"],
@@ -31804,6 +32452,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	convincedbug: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			poisongas: ["8L1"],
 			brutalswing: ["8L1"],
 			lifedew: ["8L1"],
@@ -32158,6 +32809,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	qualifiedsalamander: {
 		learnset: {
+			hex: ["8L1"],
 			solarbeam: ["8L1"],
 			icywind: ["8L1"],
 			thunderouskick: ["8L1"],
@@ -32466,6 +33118,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	strategickingfisher: {
 		learnset: {
+			uturn: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			freezeshock: ["8L1"],
 			synthesis: ["8L1"],
 			chipaway: ["8L1"],
@@ -32529,6 +33184,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	distinctviper: {
 		learnset: {
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
 			soak: ["8L1"],
 			flatter: ["8L1"],
 			present: ["8L1"],
@@ -32789,6 +33446,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	betterpossum: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			shadowball: ["8L1"],
 			earthquake: ["8L1"],
 			scorchingsands: ["8L1"],
 			milkdrink: ["8L1"],
@@ -32882,6 +33542,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	holygrouse: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			ancientpower: ["8L1"],
 			terrainpulse: ["8L1"],
 			silverwind: ["8L1"],
 			spiderweb: ["8L1"],
@@ -33045,6 +33708,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	marineparakeet: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			belch: ["8L1"],
 			furyattack: ["8L1"],
 			icepunch: ["8L1"],
@@ -33121,6 +33788,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	disturbedbobolink: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			toxicspikes: ["8L1"],
 			teeterdance: ["8L1"],
 			geargrind: ["8L1"],
@@ -33156,6 +33827,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	peacefulvulture: {
 		learnset: {
+			uturn: ["8L1"],
 			magnetbomb: ["8L1"],
 			acrobatics: ["8L1"],
 			tarshot: ["8L1"],
@@ -33228,6 +33900,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	literaryreindeer: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			junglehealing: ["8L1"],
 			harden: ["8L1"],
 			speedswap: ["8L1"],
@@ -33258,6 +33934,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	busyearthworm: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowball: ["8L1"],
 			coaching: ["8L1"],
 			furycutter: ["8L1"],
 			helpinghand: ["8L1"],
@@ -33432,6 +34110,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	fashionableemu: {
 		learnset: {
+			uturn: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			earthquake: ["8L1"],
 			bonemarang: ["8L1"],
 			earthpower: ["8L1"],
@@ -33479,6 +34160,12 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	worriedwoodpecker: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
+			shadowbone: ["8L1"],
+			shadowball: ["8L1"],
 			highhorsepower: ["8L1"],
 			strength: ["8L1"],
 			rockclimb: ["8L1"],
@@ -33500,6 +34187,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	tensecricket: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			gunkshot: ["8L1"],
 			poisonjab: ["8L1"],
 			sludgewave: ["8L1"],
@@ -33587,6 +34278,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	unemployedgoat: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			shadowball: ["8L1"],
 			coil: ["8L1"],
 			thousandwaves: ["8L1"],
 			sparklingaria: ["8L1"],
@@ -33680,6 +34374,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	prospectivetarantula: {
 		learnset: {
+			shadowbone: ["8L1"],
 			drainingkiss: ["8L1"],
 			falsesurrender: ["8L1"],
 			growth: ["8L1"],
@@ -33923,6 +34618,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	unawaretortoise: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			closecombat: ["8L1"],
 			gunkshot: ["8L1"],
 			tearfullook: ["8L1"],
@@ -34023,6 +34722,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	confidentfelidae: {
 		learnset: {
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			heatcrash: ["8L1"],
 			hyperbeam: ["8L1"],
 			thunder: ["8L1"],
@@ -34049,6 +34752,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	evilrook: {
 		learnset: {
+			bugbuzz: ["8L1"],
+			strugglebug: ["8L1"],
 			bravebird: ["8L1"],
 			acrobatics: ["8L1"],
 			aeroblast: ["8L1"],
@@ -34468,6 +35173,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	generalparakeet: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
 			outrage: ["8L1"],
 			bellydrum: ["8L1"],
 			shadowpunch: ["8L1"],
@@ -34537,6 +35245,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	favouriteangelfish: {
 		learnset: {
+			shadowbone: ["8L1"],
+			shadowclaw: ["8L1"],
+			hex: ["8L1"],
+			shadowball: ["8L1"],
 			hiddenpowerdark: ["8L1"],
 			transform: ["8L1"],
 			poisonfang: ["8L1"],
@@ -34579,6 +35291,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	alliedherring: {
 		learnset: {
+			rockslide: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			judgment: ["8L1"],
 			clamp: ["8L1"],
 			chatter: ["8L1"],
@@ -34832,6 +35547,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	ashamedanglerfish: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			ancientpower: ["8L1"],
 			pollenpuff: ["8L1"],
 			swift: ["8L1"],
 			afteryou: ["8L1"],
@@ -34928,6 +35647,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	instantoctopus: {
 		learnset: {
+			xscissor: ["8L1"],
+			strugglebug: ["8L1"],
 			hiddenpowerghost: ["8L1"],
 			irondefense: ["8L1"],
 			reflecttype: ["8L1"],
@@ -35047,6 +35768,12 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	clumsypiranha: {
 		learnset: {
+			rockslide: ["8L1"],
+			stoneedge: ["8L1"],
+			powergem: ["8L1"],
+			uturn: ["8L1"],
+			xscissor: ["8L1"],
+			strugglebug: ["8L1"],
 			iceball: ["8L1"],
 			guardsplit: ["8L1"],
 			snipeshot: ["8L1"],
