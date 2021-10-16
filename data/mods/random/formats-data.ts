@@ -615,7 +615,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	variableguppy: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	competitivelion: {
 		tier: "Rand",
@@ -945,7 +945,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	priornarwhal: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	woodengrouse: {
 		tier: "Rand",
@@ -1017,7 +1017,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	fortunatelion: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	entirecardinal: {
 		tier: "Rand",
@@ -1377,7 +1377,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	reasonablesole: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	defeatedfly: {
 		tier: "Rand",
