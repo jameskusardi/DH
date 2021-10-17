@@ -168,7 +168,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	importantmoose: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	bizarrehawk: {
 		tier: "Rand",
@@ -2715,7 +2715,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	middleperch: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	rivalchipmunk: {
 		tier: "Rand",
