@@ -1311,7 +1311,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	integralkiwi: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	defensivesailfish: {
 		tier: "Rand",
