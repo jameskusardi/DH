@@ -228,7 +228,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	commongoldfish: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	readytakin: {
 		tier: "Rand",
@@ -1869,7 +1869,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	dirtyjay: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	consistentswordtail: {
 		tier: "Rand",
