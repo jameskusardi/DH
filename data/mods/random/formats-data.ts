@@ -1,6 +1,6 @@
 export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	favourableswan: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	sunnylark: {
 		tier: "Rand",
