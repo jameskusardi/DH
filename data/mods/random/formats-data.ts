@@ -2946,7 +2946,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand",
 	},
 	generalparakeet: {
-		tier: "Rand",
+		tier: "Rand Sus",
 	},
 	zygomorphicmacaw: {
 		tier: "Rand",
