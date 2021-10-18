@@ -3039,6 +3039,30 @@ export const Formats: FormatList = [
 		},
 		teambuilderFormat: "Rand",
 	},
+	{
+		name: "[Gen 8] Randommons Duo Edition",
+		desc: `<b>Randommons</b>: In this Solomod, I have coded 1000 randomly generated Fakemon, complete with randomly assigned types, stats, abilities, weights, and learnsets!`,
+		threads: [
+			`&bullet; <a href="https://www.smogon.com/forums/threads/solomods-megathread.3660004/page-4#post-9002827">Randommons Metagame Forum Post</a>`,
+		],
+
+		mod: 'randomduo',
+		ruleset: ['Standard NatDex', 'OHKO Clause', 'Evasion Moves Clause', 'Species Clause', 'Dynamax Clause', 'Sleep Clause Mod', 'Data Mod'],
+		banlist: [
+			'Arena Trap', 'Moody', 'Power Construct', 'Shadow Tag', 'Baton Pass',
+		],
+		onValidateTeam(team, format) {
+			let speciesTable = {};
+			let allowedTiers = ['Rand Duo'];
+			for (const set of team) {
+				let template = this.dex.getSpecies(set.species);
+				if ( !allowedTiers.includes(template.tier) ) {
+					return [set.species + ' is not useable in Randommons Duo Edition.'];
+				}
+			}
+		},
+		teambuilderFormat: "Rand Duo",
+	},
 	// Past Gens OU
 	///////////////////////////////////////////////////////////////////
 
