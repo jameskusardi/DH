@@ -1,302 +1,302 @@
 export const FormatsData: {[k: string]: SpeciesFormatsData} = {
-	rigidcrocodile: {
+	coldhamster: {
 		tier: "Rand Duo",
 	},
-	livegamefowl: {
+	wastefulcheetah: {
 		tier: "Rand Duo",
 	},
-	burningemu: {
+	costlyswordfish: {
 		tier: "Rand Duo",
 	},
-	sadelk: {
+	suspiciouswasp: {
 		tier: "Rand Duo",
 	},
-	wilfulbobolink: {
+	urbanconstrictor: {
 		tier: "Rand Duo",
 	},
-	tastelessmarmoset: {
+	melodiccod: {
 		tier: "Rand Duo",
 	},
-	cooperativehippopotamus: {
+	vagueparrotfish: {
 		tier: "Rand Duo",
 	},
-	sheerparakeet: {
+	cleanbutterfly: {
 		tier: "Rand Duo",
 	},
-	richwhale: {
+	comparativemacaw: {
 		tier: "Rand Duo",
 	},
-	waterybandicoot: {
+	parentalvole: {
 		tier: "Rand Duo",
 	},
-	bizarregamefowl: {
+	progressiverattlesnake: {
 		tier: "Rand Duo",
 	},
-	prettylamprey: {
+	socialkrill: {
 		tier: "Rand Duo",
 	},
-	lazygamefowl: {
+	renewedstoat: {
 		tier: "Rand Duo",
 	},
-	tinyvole: {
+	biologicalwhippet: {
 		tier: "Rand Duo",
 	},
-	whisperingcanidae: {
+	ugliestalbatross: {
 		tier: "Rand Duo",
 	},
-	poisedworm: {
+	entirekangaroo: {
 		tier: "Rand Duo",
 	},
-	reluctantbuzzard: {
+	upperprimate: {
 		tier: "Rand Duo",
 	},
-	likelyquokka: {
+	lengthyminnow: {
 		tier: "Rand Duo",
 	},
-	inappropriatespoonbill: {
+	decisivebasilisk: {
 		tier: "Rand Duo",
 	},
-	loudtapir: {
+	initialhawk: {
 		tier: "Rand Duo",
 	},
-	unknownswallow: {
+	forwardwhippet: {
 		tier: "Rand Duo",
 	},
-	misleadingrat: {
+	continentalmarlin: {
 		tier: "Rand Duo",
 	},
-	satisfactoryquail: {
+	confusedsloth: {
 		tier: "Rand Duo",
 	},
-	squealingpigeon: {
+	hungrycondor: {
 		tier: "Rand Duo",
 	},
-	outdoorleopon: {
+	correctsheep: {
 		tier: "Rand Duo",
 	},
-	effectivetoucan: {
+	manualplanarian: {
 		tier: "Rand Duo",
 	},
-	unfortunatebaboon: {
+	thickkiwi: {
 		tier: "Rand Duo",
 	},
-	jointleopon: {
+	consciousduck: {
 		tier: "Rand Duo",
 	},
-	relievedorangutan: {
+	spectaculargull: {
 		tier: "Rand Duo",
 	},
-	magicpuffin: {
+	extensivecephalopod: {
 		tier: "Rand Duo",
 	},
-	curvedcod: {
+	loudanaconda: {
 		tier: "Rand Duo",
 	},
-	absentplanarian: {
+	sourwildebeest: {
 		tier: "Rand Duo",
 	},
-	mobileferret: {
+	linearfalcon: {
 		tier: "Rand Duo",
 	},
-	youthfulimpala: {
+	interiorhawk: {
 		tier: "Rand Duo",
 	},
-	moderatemagpie: {
+	primitivebear: {
 		tier: "Rand Duo",
 	},
-	xenialorca: {
+	drivingthrush: {
 		tier: "Rand Duo",
 	},
-	rationalemu: {
+	uptighttermite: {
 		tier: "Rand Duo",
 	},
-	originalcockroach: {
+	harshmoth: {
 		tier: "Rand Duo",
 	},
-	elatedkangaroo: {
+	deepmagpie: {
 		tier: "Rand Duo",
 	},
-	zanyalligator: {
+	averagehyena: {
 		tier: "Rand Duo",
 	},
-	subtlemacaw: {
+	eventualasp: {
 		tier: "Rand Duo",
 	},
-	annoyedlandfowl: {
+	monthlygayal: {
 		tier: "Rand Duo",
 	},
-	formaltiger: {
+	unpleasantbug: {
 		tier: "Rand Duo",
 	},
-	realharrier: {
+	mutepeafowl: {
 		tier: "Rand Duo",
 	},
-	emptyorangutan: {
+	realisticcondor: {
 		tier: "Rand Duo",
 	},
-	bittershrimp: {
+	implicitsalamander: {
 		tier: "Rand Duo",
 	},
-	intimatemarsupial: {
+	unawarestingray: {
 		tier: "Rand Duo",
 	},
-	medicalcrane: {
+	rightloon: {
 		tier: "Rand Duo",
 	},
-	flutteringkangaroo: {
+	fortunateguppy: {
 		tier: "Rand Duo",
 	},
-	partialaardvark: {
+	charmingbear: {
 		tier: "Rand Duo",
 	},
-	unlikelycentipede: {
+	relievedrooster: {
 		tier: "Rand Duo",
 	},
-	nuttytermite: {
+	peculiarroadrunner: {
 		tier: "Rand Duo",
 	},
-	silkyspoonbill: {
+	gastricape: {
 		tier: "Rand Duo",
 	},
-	separatedove: {
+	necessaryvicuna: {
 		tier: "Rand Duo",
 	},
-	skinnybobcat: {
+	sovietanteater: {
 		tier: "Rand Duo",
 	},
-	neutralcod: {
+	uncomfortablereindeer: {
 		tier: "Rand Duo",
 	},
-	bottomtrout: {
+	competitiveoctopus: {
 		tier: "Rand Duo",
 	},
-	payablequokka: {
+	awarefox: {
 		tier: "Rand Duo",
 	},
-	protestantaphid: {
+	mereturtle: {
 		tier: "Rand Duo",
 	},
-	decentfalcon: {
+	ultimatebison: {
 		tier: "Rand Duo",
 	},
-	longjunglefowl: {
+	physicalhummingbird: {
 		tier: "Rand Duo",
 	},
-	spatialskink: {
+	wilfulviper: {
 		tier: "Rand Duo",
 	},
-	enviouspony: {
+	muddysmelt: {
 		tier: "Rand Duo",
 	},
-	molecularviper: {
+	mushymoose: {
 		tier: "Rand Duo",
 	},
-	fashionablepinniped: {
+	rulinganteater: {
 		tier: "Rand Duo",
 	},
-	tensesheep: {
+	elderlygiraffe: {
 		tier: "Rand Duo",
 	},
-	witteringmanatee: {
+	juicyleopard: {
 		tier: "Rand Duo",
 	},
-	rarenarwhal: {
+	relievedbarracuda: {
 		tier: "Rand Duo",
 	},
-	liquidroadrunner: {
+	experimentalpython: {
 		tier: "Rand Duo",
 	},
-	individualbedbug: {
+	externaltern: {
 		tier: "Rand Duo",
 	},
-	desperatelungfish: {
+	topmarmoset: {
 		tier: "Rand Duo",
 	},
-	smilingparakeet: {
+	amateurmink: {
 		tier: "Rand Duo",
 	},
-	misleadingrat: {
+	relativecatfish: {
 		tier: "Rand Duo",
 	},
-	illroundworm: {
+	administrativestork: {
 		tier: "Rand Duo",
 	},
-	staticquelea: {
+	strongpinniped: {
 		tier: "Rand Duo",
 	},
-	dependentvicuna: {
+	increasingjay: {
 		tier: "Rand Duo",
 	},
-	poorpike: {
+	funnyfalcon: {
 		tier: "Rand Duo",
 	},
-	eventualsawfish: {
+	uselessdinosaur: {
 		tier: "Rand Duo",
 	},
-	elaborateclam: {
+	singlebobolink: {
 		tier: "Rand Duo",
 	},
-	definitedragonfly: {
+	colourfulwhale: {
 		tier: "Rand Duo",
 	},
-	defensivecougar: {
+	sensitiveboa: {
 		tier: "Rand Duo",
 	},
-	doubtfulperch: {
+	soundparrotfish: {
 		tier: "Rand Duo",
 	},
-	outdoorbooby: {
+	realisticroadrunner: {
 		tier: "Rand Duo",
 	},
-	writtenemu: {
+	lovelyalbatross: {
 		tier: "Rand Duo",
 	},
-	ashamedscallop: {
+	mixedmuskox: {
 		tier: "Rand Duo",
 	},
-	individualhaddock: {
+	protectivealbatross: {
 		tier: "Rand Duo",
 	},
-	renewedalbatross: {
+	consistenttarsier: {
 		tier: "Rand Duo",
 	},
-	lexicalbat: {
+	fantasticanglerfish: {
 		tier: "Rand Duo",
 	},
-	wholebutterfly: {
+	semanticclam: {
 		tier: "Rand Duo",
 	},
-	realisticlark: {
+	yuckycoral: {
 		tier: "Rand Duo",
 	},
-	nationalermine: {
+	joyouswarbler: {
 		tier: "Rand Duo",
 	},
-	thenconstrictor: {
+	xenogeneicpuffin: {
 		tier: "Rand Duo",
 	},
-	expensiveherring: {
+	cooperativemite: {
 		tier: "Rand Duo",
 	},
-	eventualsparrow: {
+	fondjaguar: {
 		tier: "Rand Duo",
 	},
-	renewedblackbird: {
+	squarecapybara: {
 		tier: "Rand Duo",
 	},
-	defeatedroadrunner: {
+	inquisitivepenguin: {
 		tier: "Rand Duo",
 	},
-	deliciousgazelle: {
+	regulatorylimpet: {
 		tier: "Rand Duo",
 	},
-	medievalspoonbill: {
+	politicalquail: {
 		tier: "Rand Duo",
 	},
-	whisperingcephalopod: {
+	responsibleherring: {
 		tier: "Rand Duo",
 	},
-	classicalbutterfly: {
+	givenharrier: {
 		tier: "Rand Duo",
 	},
 };
