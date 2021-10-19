@@ -780,7 +780,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Urgent Cod",
 		types: ["Fairy", "Dragon"],
 		baseStats: {hp: 94, atk: 86, def: 55, spa: 87, spd: 115, spe: 78},
-		abilities: {0: "Frisk", 1: "Soundproof"},
+		abilities: {0: "Frisk", H: "Soundproof"},
 		weightkg: 17,
 	},
 	zygoticminnow: {
