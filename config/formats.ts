@@ -3001,7 +3001,7 @@ export const Formats: FormatList = [
 		mod: 'random',
 		ruleset: ['Standard NatDex', 'OHKO Clause', 'Evasion Moves Clause', 'Species Clause', 'Dynamax Clause', 'Sleep Clause Mod', 'Data Mod'],
 		banlist: [
-			'Arena Trap', 'Moody', 'Power Construct', 'Shadow Tag', 'Baton Pass', 'Wonder Guard', 'Rand Sus',
+			'Arena Trap', 'Moody', 'Power Construct', 'Shadow Tag', 'Baton Pass', 'Wonder Guard', 'Anxious Roadrunner',
 		],
 		onValidateTeam(team, format) {
 			let speciesTable = {};
@@ -3025,7 +3025,7 @@ export const Formats: FormatList = [
 		mod: 'random',
 		ruleset: ['Standard NatDex', 'OHKO Clause', 'Evasion Moves Clause', 'Species Clause', 'Dynamax Clause', 'Sleep Clause Mod', 'Data Mod'],
 		banlist: [
-			'Arena Trap', 'Moody', 'Power Construct', 'Shadow Tag', 'Baton Pass', 'Wonder Guard', 'Anxious Roadrunner',
+			'Arena Trap', 'Moody', 'Power Construct', 'Shadow Tag', 'Baton Pass', 'Wonder Guard', 'Anxious Roadrunner', 'Rand Sus',
 		],
 		onValidateTeam(team, format) {
 			let speciesTable = {};
