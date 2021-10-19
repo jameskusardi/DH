@@ -42,7 +42,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand Duo",
 	},
 	ugliestalbatross: {
-		tier: "Rand Duo",
+		tier: "Rand Duo Uber",
 	},
 	entirekangaroo: {
 		tier: "Rand Duo",
@@ -87,7 +87,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Rand Duo",
 	},
 	extensivecephalopod: {
-		tier: "Rand Duo",
+		tier: "Rand Duo Uber",
 	},
 	loudanaconda: {
 		tier: "Rand Duo",
