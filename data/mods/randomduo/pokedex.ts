@@ -92,7 +92,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Injured Barracuda",
 		types: ["Ice"],
 		baseStats: {hp: 55, atk: 124, def: 65, spa: 69, spd: 68, spe: 104},
-		abilities: {0: "undefined", 1: "Refrigerate", H: "Snow Cloak"},
+		abilities: {0: "Refrigerate", H: "Snow Cloak"},
 		weightkg: 5,
 	},
 	dueguan: {
@@ -700,7 +700,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Resonant Boar",
 		types: ["Fairy", "Electric"],
 		baseStats: {hp: 106, atk: 113, def: 76, spa: 89, spd: 81, spe: 60},
-		abilities: {0: "Rivalry", 1: "Sweet Veil", H: "Multitype"},
+		abilities: {0: "Rivalry", 1: "Sweet Veil"},
 		weightkg: 75,
 	},
 	costlymeerkat: {
@@ -780,7 +780,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Urgent Cod",
 		types: ["Fairy", "Dragon"],
 		baseStats: {hp: 94, atk: 86, def: 55, spa: 87, spd: 115, spe: 78},
-		abilities: {0: "Frisk", 1: "Soundproof", H: "Power Construct"},
+		abilities: {0: "Frisk", 1: "Soundproof"},
 		weightkg: 17,
 	},
 	zygoticminnow: {
