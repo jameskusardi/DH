@@ -700,7 +700,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Resonant Boar",
 		types: ["Fairy", "Electric"],
 		baseStats: {hp: 106, atk: 113, def: 76, spa: 89, spd: 81, spe: 60},
-		abilities: {0: "Rivalry", 1: "Sweet Veil"},
+		abilities: {0: "Rivalry", H: "Sweet Veil"},
 		weightkg: 75,
 	},
 	costlymeerkat: {
