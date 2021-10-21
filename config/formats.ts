@@ -3083,6 +3083,27 @@ export const Formats: FormatList = [
 		},
 		teambuilderFormat: "Rand Duo",
 	},
+	{
+		name: "[Gen 3] Yakmons",
+		threads: [
+			`&bullet; <a href="https://www.smogon.com/forums/posts/8133789/">ADV Sample Teams</a>`,
+			`&bullet; <a href="https://www.smogon.com/forums/threads/3503019/">ADV OU Viability Rankings</a>`,
+		],
+
+		mod: 'yakmons',
+		ruleset: ['Standard', '3 Baton Pass Clause', 'Data Mod'],
+		banlist: ['Uber', 'Smeargle + Baton Pass'],
+		onValidateTeam(team, format) {
+			let speciesTable = {};
+			let allowedTiers = ['Yak'];
+			for (const set of team) {
+				let template = this.dex.getSpecies(set.species);
+				if ( !allowedTiers.includes(template.tier) ) {
+					return [set.species + ' is not useable in Randuomons.'];
+				}
+			}
+		},
+	},
 	// Past Gens OU
 	///////////////////////////////////////////////////////////////////
 
