@@ -36,7 +36,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Partridge",
 		types: ["Bug"],
 		baseStats: {hp: 68, atk: 49, def: 157, spa: 92, spd: 79, spe: 58},
-		abilities: {0: "Flame_Body", 1: "Shell_Armor"},
+		abilities: {0: "Flame Body", 1: "Shell Armor"},
 		weightkg: 250,
 	},
 	kangaroo: {
@@ -44,7 +44,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Kangaroo",
 		types: ["Flying", "Steel"],
 		baseStats: {hp: 78, atk: 114, def: 87, spa: 96, spd: 71, spe: 66},
-		abilities: {0: "Hustle", 1: "Inner_Focus"},
+		abilities: {0: "Hustle", 1: "Inner Focus"},
 		weightkg: 75,
 	},
 	crocodile: {
@@ -52,7 +52,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Crocodile",
 		types: ["Fire"],
 		baseStats: {hp: 77, atk: 106, def: 61, spa: 58, spd: 107, spe: 119},
-		abilities: {0: "Flash_Fire", 1: "Magma_Armor"},
+		abilities: {0: "Flash Fire", 1: "Magma Armor"},
 		weightkg: 500,
 	},
 	earthworm: {
@@ -60,7 +60,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Earthworm",
 		types: ["Ghost"],
 		baseStats: {hp: 70, atk: 114, def: 80, spa: 71, spd: 83, spe: 84},
-		abilities: {0: "Clear_Body", 1: "Pickup"},
+		abilities: {0: "Clear Body", 1: "Pickup"},
 		weightkg: 5,
 	},
 	lynx: {
@@ -68,7 +68,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Lynx",
 		types: ["Fighting"],
 		baseStats: {hp: 70, atk: 79, def: 100, spa: 80, spd: 121, spe: 69},
-		abilities: {0: "Guts", 1: "Hyper_Cutter"},
+		abilities: {0: "Guts", 1: "Hyper Cutter"},
 		weightkg: 17,
 	},
 	wallaby: {
@@ -76,7 +76,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Wallaby",
 		types: ["Poison", "Grass"],
 		baseStats: {hp: 83, atk: 75, def: 89, spa: 78, spd: 131, spe: 69},
-		abilities: {0: "Run_Away", 1: "Overgrow"},
+		abilities: {0: "Run Away", 1: "Overgrow"},
 		weightkg: 17,
 	},
 	piranha: {
@@ -92,7 +92,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Warbler",
 		types: ["Ghost", "Dark"],
 		baseStats: {hp: 67, atk: 114, def: 87, spa: 82, spd: 70, spe: 104},
-		abilities: {0: "Pickup", 1: "Early_Bird"},
+		abilities: {0: "Pickup", 1: "Early Bird"},
 		weightkg: 250,
 	},
 	centipede: {
@@ -100,7 +100,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Centipede",
 		types: ["Ghost"],
 		baseStats: {hp: 65, atk: 103, def: 78, spa: 120, spd: 59, spe: 68},
-		abilities: {0: "Clear_Body", 1: "Keen_Eye"},
+		abilities: {0: "Clear Body", 1: "Keen Eye"},
 		weightkg: 500,
 	},
 	mite: {
@@ -108,7 +108,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Mite",
 		types: ["Ghost"],
 		baseStats: {hp: 61, atk: 62, def: 80, spa: 118, spd: 106, spe: 78},
-		abilities: {0: "Flash_Fire", 1: "Pickup"},
+		abilities: {0: "Flash Fire", 1: "Pickup"},
 		weightkg: 250,
 	},
 	ant: {
@@ -116,7 +116,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Ant",
 		types: ["Ground"],
 		baseStats: {hp: 85, atk: 86, def: 129, spa: 55, spd: 93, spe: 47},
-		abilities: {0: "Water_Absorb", 1: "Rough_Skin"},
+		abilities: {0: "Water Absorb", 1: "Rough Skin"},
 		weightkg: 500,
 	},
 	limpet: {
@@ -124,7 +124,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Limpet",
 		types: ["Fighting", "Poison"],
 		baseStats: {hp: 117, atk: 70, def: 82, spa: 73, spd: 103, spe: 83},
-		abilities: {0: "Guts", 1: "Keen_Eye"},
+		abilities: {0: "Guts", 1: "Keen Eye"},
 		weightkg: 250,
 	},
 	beetle: {
@@ -132,7 +132,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Beetle",
 		types: ["Psychic", "Fire"],
 		baseStats: {hp: 75, atk: 68, def: 124, spa: 91, spd: 112, spe: 43},
-		abilities: {0: "Hustle", 1: "Inner_Focus"},
+		abilities: {0: "Hustle", 1: "Inner Focus"},
 		weightkg: 75,
 	},
 	cobra: {
@@ -140,7 +140,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Cobra",
 		types: ["Flying", "Electric"],
 		baseStats: {hp: 68, atk: 69, def: 70, spa: 150, spd: 57, spe: 92},
-		abilities: {0: "Volt_Absorb", 1: "Lightning_Rod"},
+		abilities: {0: "Volt Absorb", 1: "Lightning Rod"},
 		weightkg: 500,
 	},
 	sailfish: {
@@ -148,7 +148,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Sailfish",
 		types: ["Electric", "Fire"],
 		baseStats: {hp: 66, atk: 115, def: 49, spa: 123, spd: 77, spe: 90},
-		abilities: {0: "Speed_Boost", 1: "Plus"},
+		abilities: {0: "Speed Boost", 1: "Plus"},
 		weightkg: 5,
 	},
 	clownfish: {
@@ -164,7 +164,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Goose",
 		types: ["Dark", "Ground"],
 		baseStats: {hp: 68, atk: 118, def: 101, spa: 75, spd: 62, spe: 66},
-		abilities: {0: "Run_Away", 1: "Intimidate"},
+		abilities: {0: "Run Away", 1: "Intimidate"},
 		weightkg: 17,
 	},
 	tick: {
@@ -172,7 +172,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Tick",
 		types: ["Fire"],
 		baseStats: {hp: 53, atk: 61, def: 91, spa: 100, spd: 116, spe: 86},
-		abilities: {0: "Hustle", 1: "Flash_Fire"},
+		abilities: {0: "Hustle", 1: "Flash Fire"},
 		weightkg: 75,
 	},
 	basilisk: {
@@ -188,7 +188,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Crow",
 		types: ["Steel"],
 		baseStats: {hp: 61, atk: 92, def: 189, spa: 66, spd: 72, spe: 36},
-		abilities: {0: "Clear_Body", 1: "Magnet_Pull"},
+		abilities: {0: "Clear Body", 1: "Magnet Pull"},
 		weightkg: 75,
 	},
 	crayfish: {
@@ -196,7 +196,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Crayfish",
 		types: ["Bug", "Dragon"],
 		baseStats: {hp: 55, atk: 134, def: 88, spa: 69, spd: 107, spe: 72},
-		abilities: {0: "Flame_Body", 1: "Swarm"},
+		abilities: {0: "Flame Body", 1: "Swarm"},
 		weightkg: 500,
 	},
 	sloth: {
@@ -204,7 +204,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Sloth",
 		types: ["Rock"],
 		baseStats: {hp: 60, atk: 71, def: 113, spa: 78, spd: 63, spe: 103},
-		abilities: {0: "Vital_Spirit", 1: "Sand_Veil"},
+		abilities: {0: "Vital Spirit", 1: "Sand Veil"},
 		weightkg: 75,
 	},
 	booby: {
@@ -212,7 +212,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Booby",
 		types: ["Ghost"],
 		baseStats: {hp: 103, atk: 76, def: 71, spa: 51, spd: 79, spe: 115},
-		abilities: {0: "Lightning_Rod", 1: "Insomnia"},
+		abilities: {0: "Lightning Rod", 1: "Insomnia"},
 		weightkg: 250,
 	},
 	chinchilla: {
@@ -220,7 +220,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Chinchilla",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 110, atk: 108, def: 76, spa: 55, spd: 94, spe: 84},
-		abilities: {0: "Flame_Body", 1: "Pressure"},
+		abilities: {0: "Flame Body", 1: "Pressure"},
 		weightkg: 5,
 	},
 	marmoset: {
@@ -228,7 +228,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Marmoset",
 		types: ["Electric", "Grass"],
 		baseStats: {hp: 89, atk: 114, def: 69, spa: 70, spd: 75, spe: 104},
-		abilities: {0: "Volt_Absorb", 1: "Compound_Eyes"},
+		abilities: {0: "Volt Absorb", 1: "Compound Eyes"},
 		weightkg: 250,
 	},
 	slug: {
@@ -236,7 +236,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Slug",
 		types: ["Ice"],
 		baseStats: {hp: 119, atk: 97, def: 69, spa: 74, spd: 91, spe: 42},
-		abilities: {0: "Static", 1: "Inner_Focus"},
+		abilities: {0: "Static", 1: "Inner Focus"},
 		weightkg: 250,
 	},
 	raccoon: {
@@ -244,7 +244,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Raccoon",
 		types: ["Dragon"],
 		baseStats: {hp: 57, atk: 110, def: 81, spa: 70, spd: 77, spe: 124},
-		abilities: {0: "Air_Lock", 1: "Cloud_Nine"},
+		abilities: {0: "Air Lock", 1: "Cloud Nine"},
 		weightkg: 17,
 	},
 	pigeon: {
@@ -252,7 +252,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Pigeon",
 		types: ["Fighting"],
 		baseStats: {hp: 85, atk: 109, def: 58, spa: 88, spd: 51, spe: 113},
-		abilities: {0: "Swift_Swim", 1: "Hyper_Cutter"},
+		abilities: {0: "Swift Swim", 1: "Hyper Cutter"},
 		weightkg: 75,
 	},
 	tarsier: {
@@ -260,7 +260,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Tarsier",
 		types: ["Normal"],
 		baseStats: {hp: 49, atk: 58, def: 95, spa: 81, spd: 118, spe: 103},
-		abilities: {0: "Thick_Fat", 1: "Early_Bird"},
+		abilities: {0: "Thick Fat", 1: "Early Bird"},
 		weightkg: 5,
 	},
 	herring: {
@@ -276,7 +276,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Bird",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 72, atk: 77, def: 112, spa: 82, spd: 82, spe: 85},
-		abilities: {0: "Insomnia", 1: "Battle_Armor"},
+		abilities: {0: "Insomnia", 1: "Battle Armor"},
 		weightkg: 250,
 	},
 	haddock: {
@@ -284,7 +284,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Haddock",
 		types: ["Electric", "Steel"],
 		baseStats: {hp: 66, atk: 70, def: 153, spa: 59, spd: 82, spe: 68},
-		abilities: {0: "Magnet_Pull", 1: "Levitate"},
+		abilities: {0: "Magnet Pull", 1: "Levitate"},
 		weightkg: 250,
 	},
 	toucan: {
@@ -292,7 +292,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Toucan",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 98, atk: 87, def: 59, spa: 123, spd: 67, spe: 83},
-		abilities: {0: "Swift_Swim", 1: "Drizzle"},
+		abilities: {0: "Swift Swim", 1: "Drizzle"},
 		weightkg: 250,
 	},
 	shark: {
@@ -300,7 +300,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Shark",
 		types: ["Psychic", "Flying"],
 		baseStats: {hp: 105, atk: 75, def: 112, spa: 81, spd: 98, spe: 57},
-		abilities: {0: "Pressure", 1: "Keen_Eye"},
+		abilities: {0: "Pressure", 1: "Keen Eye"},
 		weightkg: 5,
 	},
 	ferret: {
@@ -308,7 +308,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Ferret",
 		types: ["Water", "Ice"],
 		baseStats: {hp: 61, atk: 64, def: 109, spa: 112, spd: 98, spe: 80},
-		abilities: {0: "Shell_Armor", 1: "Oblivious"},
+		abilities: {0: "Shell Armor", 1: "Oblivious"},
 		weightkg: 5,
 	},
 	tapir: {
@@ -316,7 +316,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Tapir",
 		types: ["Fighting"],
 		baseStats: {hp: 119, atk: 99, def: 92, spa: 50, spd: 63, spe: 89},
-		abilities: {0: "Speed_Boost", 1: "Overgrow"},
+		abilities: {0: "Speed Boost", 1: "Overgrow"},
 		weightkg: 75,
 	},
 	aardvark: {
@@ -324,7 +324,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Aardvark",
 		types: ["Flying", "Ghost"],
 		baseStats: {hp: 65, atk: 93, def: 96, spa: 120, spd: 77, spe: 63},
-		abilities: {0: "Pressure", 1: "Clear_Body"},
+		abilities: {0: "Pressure", 1: "Clear Body"},
 		weightkg: 250,
 	},
 	perch: {
@@ -332,7 +332,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Perch",
 		types: ["Flying"],
 		baseStats: {hp: 79, atk: 52, def: 83, spa: 111, spd: 78, spe: 107},
-		abilities: {0: "Hyper_Cutter", 1: "Intimidate"},
+		abilities: {0: "Hyper Cutter", 1: "Intimidate"},
 		weightkg: 500,
 	},
 	macaw: {
@@ -340,7 +340,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Macaw",
 		types: ["Fighting"],
 		baseStats: {hp: 113, atk: 99, def: 60, spa: 62, spd: 78, spe: 100},
-		abilities: {0: "Cute_Charm", 1: "Guts"},
+		abilities: {0: "Cute Charm", 1: "Guts"},
 		weightkg: 5,
 	},
 	dolphin: {
@@ -348,7 +348,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Dolphin",
 		types: ["Psychic"],
 		baseStats: {hp: 69, atk: 58, def: 127, spa: 140, spd: 69, spe: 52},
-		abilities: {0: "Own_Tempo", 1: "Inner_Focus"},
+		abilities: {0: "Own Tempo", 1: "Inner Focus"},
 		weightkg: 250,
 	},
 	aphid: {
@@ -364,7 +364,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Monkey",
 		types: ["Poison"],
 		baseStats: {hp: 80, atk: 115, def: 64, spa: 98, spd: 64, spe: 99},
-		abilities: {0: "Liquid_Ooze", 1: "Stench"},
+		abilities: {0: "Liquid Ooze", 1: "Stench"},
 		weightkg: 75,
 	},
 	eagle: {
@@ -380,7 +380,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Pheasant",
 		types: ["Fighting", "Psychic"],
 		baseStats: {hp: 117, atk: 75, def: 121, spa: 56, spd: 107, spe: 45},
-		abilities: {0: "Pure_Power", 1: "Blaze"},
+		abilities: {0: "Pure Power", 1: "Blaze"},
 		weightkg: 250,
 	},
 	elephant: {
@@ -388,7 +388,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Elephant",
 		types: ["Water"],
 		baseStats: {hp: 60, atk: 105, def: 73, spa: 97, spd: 58, spe: 119},
-		abilities: {0: "Rain_Dish", 1: "Damp"},
+		abilities: {0: "Rain Dish", 1: "Damp"},
 		weightkg: 5,
 	},
 	dragonfly: {
@@ -396,7 +396,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Dragonfly",
 		types: ["Normal", "Psychic"],
 		baseStats: {hp: 58, atk: 92, def: 69, spa: 76, spd: 88, spe: 119},
-		abilities: {0: "Run_Away", 1: "Pressure"},
+		abilities: {0: "Run Away", 1: "Pressure"},
 		weightkg: 500,
 	},
 	kiwi: {
@@ -412,7 +412,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Anteater",
 		types: ["Normal"],
 		baseStats: {hp: 169, atk: 68, def: 71, spa: 59, spd: 45, spe: 92},
-		abilities: {0: "Hustle", 1: "Run_Away"},
+		abilities: {0: "Hustle", 1: "Run Away"},
 		weightkg: 17,
 	},
 	gibbon: {
@@ -420,7 +420,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Gibbon",
 		types: ["Ground"],
 		baseStats: {hp: 88, atk: 130, def: 120, spa: 83, spd: 51, spe: 55},
-		abilities: {0: "Own_Tempo", 1: "Lightning_Rod"},
+		abilities: {0: "Own Tempo", 1: "Lightning Rod"},
 		weightkg: 250,
 	},
 	dormouse: {
@@ -428,7 +428,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Dormouse",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 73, atk: 120, def: 95, spa: 56, spd: 88, spe: 75},
-		abilities: {0: "Shell_Armor", 1: "Plus"},
+		abilities: {0: "Shell Armor", 1: "Plus"},
 		weightkg: 75,
 	},
 	goldfish: {
@@ -452,7 +452,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Muskox",
 		types: ["Electric"],
 		baseStats: {hp: 84, atk: 112, def: 81, spa: 58, spd: 99, spe: 55},
-		abilities: {0: "Compound_Eyes", 1: "Soundproof"},
+		abilities: {0: "Compound Eyes", 1: "Soundproof"},
 		weightkg: 17,
 	},
 	louse: {
@@ -468,7 +468,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Canid",
 		types: ["Water"],
 		baseStats: {hp: 49, atk: 116, def: 41, spa: 110, spd: 57, spe: 108},
-		abilities: {0: "Rough_Skin", 1: "Hyper_Cutter"},
+		abilities: {0: "Rough Skin", 1: "Hyper Cutter"},
 		weightkg: 75,
 	},
 	quail: {
@@ -476,7 +476,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Quail",
 		types: ["Rock", "Bug"],
 		baseStats: {hp: 68, atk: 99, def: 67, spa: 74, spd: 65, spe: 135},
-		abilities: {0: "Flash_Fire", 1: "Sturdy"},
+		abilities: {0: "Flash Fire", 1: "Sturdy"},
 		weightkg: 500,
 	},
 	junglefowl: {
@@ -484,7 +484,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Junglefowl",
 		types: ["Ground"],
 		baseStats: {hp: 55, atk: 166, def: 119, spa: 49, spd: 62, spe: 65},
-		abilities: {0: "Overgrow", 1: "Shed_Skin"},
+		abilities: {0: "Overgrow", 1: "Shed Skin"},
 		weightkg: 250,
 	},
 	clam: {
@@ -492,7 +492,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Clam",
 		types: ["Rock"],
 		baseStats: {hp: 79, atk: 78, def: 82, spa: 84, spd: 118, spe: 64},
-		abilities: {0: "Rock_Head", 1: "Lightning_Rod"},
+		abilities: {0: "Rock Head", 1: "Lightning Rod"},
 		weightkg: 250,
 	},
 	toad: {
@@ -508,7 +508,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Flyingfish",
 		types: ["Psychic"],
 		baseStats: {hp: 83, atk: 57, def: 84, spa: 50, spd: 134, spe: 109},
-		abilities: {0: "Clear_Body", 1: "Natural_Cure"},
+		abilities: {0: "Clear Body", 1: "Natural Cure"},
 		weightkg: 500,
 	},
 	armadillo: {
@@ -524,7 +524,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Parrot",
 		types: ["Ground"],
 		baseStats: {hp: 53, atk: 121, def: 166, spa: 58, spd: 47, spe: 58},
-		abilities: {0: "Arena_Trap", 1: "Poison_Point"},
+		abilities: {0: "Arena Trap", 1: "Poison Point"},
 		weightkg: 500,
 	},
 	bobolink: {
@@ -532,7 +532,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Bobolink",
 		types: ["Ghost"],
 		baseStats: {hp: 69, atk: 133, def: 63, spa: 61, spd: 83, spe: 102},
-		abilities: {0: "Pressure", 1: "Clear_Body"},
+		abilities: {0: "Pressure", 1: "Clear Body"},
 		weightkg: 17,
 	},
 	mosquito: {
@@ -540,7 +540,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Mosquito",
 		types: ["Poison", "Ice"],
 		baseStats: {hp: 82, atk: 107, def: 110, spa: 81, spd: 82, spe: 45},
-		abilities: {0: "Overgrow", 1: "Shed_Skin"},
+		abilities: {0: "Overgrow", 1: "Shed Skin"},
 		weightkg: 250,
 	},
 	turtle: {
@@ -548,7 +548,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Turtle",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 83, atk: 72, def: 126, spa: 79, spd: 94, spe: 58},
-		abilities: {0: "Magnet_Pull", 1: "Magnet_Pull"},
+		abilities: {0: "Magnet Pull", 1: "Magnet Pull"},
 		weightkg: 500,
 	},
 	panther: {
@@ -556,7 +556,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Panther",
 		types: ["Steel"],
 		baseStats: {hp: 93, atk: 67, def: 88, spa: 80, spd: 56, spe: 117},
-		abilities: {0: "Inner_Focus", 1: "Sturdy"},
+		abilities: {0: "Inner Focus", 1: "Sturdy"},
 		weightkg: 75,
 	},
 	duck: {
@@ -564,7 +564,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Duck",
 		types: ["Bug"],
 		baseStats: {hp: 78, atk: 135, def: 61, spa: 58, spd: 74, spe: 88},
-		abilities: {0: "Flame_Body", 1: "Compound_Eyes"},
+		abilities: {0: "Flame Body", 1: "Compound Eyes"},
 		weightkg: 500,
 	},
 	primate: {
@@ -572,7 +572,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Primate",
 		types: ["Dark"],
 		baseStats: {hp: 71, atk: 74, def: 78, spa: 130, spd: 50, spe: 110},
-		abilities: {0: "Early_Bird", 1: "Chlorophyll"},
+		abilities: {0: "Early Bird", 1: "Chlorophyll"},
 		weightkg: 500,
 	},
 	starfish: {
@@ -580,7 +580,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Starfish",
 		types: ["Fire", "Bug"],
 		baseStats: {hp: 94, atk: 114, def: 77, spa: 74, spd: 82, spe: 50},
-		abilities: {0: "Effect_Spore", 1: "Flash_Fire"},
+		abilities: {0: "Effect Spore", 1: "Flash Fire"},
 		weightkg: 250,
 	},
 	snipe: {
@@ -588,7 +588,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Snipe",
 		types: ["Normal"],
 		baseStats: {hp: 118, atk: 96, def: 52, spa: 78, spd: 90, spe: 71},
-		abilities: {0: "Illuminate", 1: "Natural_Cure"},
+		abilities: {0: "Illuminate", 1: "Natural Cure"},
 		weightkg: 75,
 	},
 	penguin: {
@@ -612,7 +612,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Iguana",
 		types: ["Steel", "Fighting"],
 		baseStats: {hp: 91, atk: 97, def: 128, spa: 81, spd: 67, spe: 60},
-		abilities: {0: "Rock_Head", 1: "Soundproof"},
+		abilities: {0: "Rock Head", 1: "Soundproof"},
 		weightkg: 500,
 	},
 	zebra: {
@@ -620,7 +620,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Zebra",
 		types: ["Ghost"],
 		baseStats: {hp: 104, atk: 54, def: 127, spa: 59, spd: 55, spe: 106},
-		abilities: {0: "Flame_Body", 1: "Pressure"},
+		abilities: {0: "Flame Body", 1: "Pressure"},
 		weightkg: 500,
 	},
 	xerinae: {
@@ -628,7 +628,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Xerinae",
 		types: ["Water", "Ghost"],
 		baseStats: {hp: 66, atk: 84, def: 77, spa: 80, spd: 86, spe: 119},
-		abilities: {0: "Damp", 1: "Water_Veil"},
+		abilities: {0: "Damp", 1: "Water Veil"},
 		weightkg: 500,
 	},
 	barracuda: {
@@ -652,7 +652,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Yak",
 		types: ["Psychic"],
 		baseStats: {hp: 116, atk: 67, def: 50, spa: 59, spd: 115, spe: 96},
-		abilities: {0: "Thick_Fat", 1: "Insomnia"},
+		abilities: {0: "Thick Fat", 1: "Insomnia"},
 		weightkg: 17,
 	},
 	rodent: {
@@ -660,7 +660,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Rodent",
 		types: ["Fighting"],
 		baseStats: {hp: 74, atk: 132, def: 59, spa: 58, spd: 83, spe: 82},
-		abilities: {0: "Soundproof", 1: "Inner_Focus"},
+		abilities: {0: "Soundproof", 1: "Inner Focus"},
 		weightkg: 5,
 	},
 	bear: {
@@ -668,7 +668,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Bear",
 		types: ["Normal", "Fire"],
 		baseStats: {hp: 139, atk: 94, def: 94, spa: 54, spd: 57, spe: 89},
-		abilities: {0: "Huge_Power", 1: "Flame_Body"},
+		abilities: {0: "Huge Power", 1: "Flame Body"},
 		weightkg: 17,
 	},
 	hamster: {
@@ -684,7 +684,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Bug",
 		types: ["Poison"],
 		baseStats: {hp: 105, atk: 69, def: 55, spa: 135, spd: 53, spe: 68},
-		abilities: {0: "Keen_Eye", 1: "Stench"},
+		abilities: {0: "Keen Eye", 1: "Stench"},
 		weightkg: 5,
 	},
 	gerbil: {
@@ -700,7 +700,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Impala",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 55, atk: 121, def: 112, spa: 77, spd: 100, spe: 57},
-		abilities: {0: "Overgrow", 1: "Compound_Eyes"},
+		abilities: {0: "Overgrow", 1: "Compound Eyes"},
 		weightkg: 17,
 	},
 	loon: {
@@ -708,7 +708,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Loon",
 		types: ["Normal"],
 		baseStats: {hp: 93, atk: 112, def: 88, spa: 45, spd: 95, spe: 48},
-		abilities: {0: "Cute_Charm", 1: "Thick_Fat"},
+		abilities: {0: "Cute Charm", 1: "Thick Fat"},
 		weightkg: 5,
 	},
 	aardwolf: {
@@ -716,7 +716,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Aardwolf",
 		types: ["Poison", "Grass"],
 		baseStats: {hp: 115, atk: 68, def: 78, spa: 121, spd: 58, spe: 79},
-		abilities: {0: "Overgrow", 1: "Own_Tempo"},
+		abilities: {0: "Overgrow", 1: "Own Tempo"},
 		weightkg: 5,
 	},
 	marlin: {
@@ -724,7 +724,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Marlin",
 		types: ["Steel"],
 		baseStats: {hp: 50, atk: 92, def: 88, spa: 113, spd: 96, spe: 54},
-		abilities: {0: "Plus", 1: "Rock_Head"},
+		abilities: {0: "Plus", 1: "Rock Head"},
 		weightkg: 500,
 	},
 	minnow: {
@@ -732,7 +732,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Minnow",
 		types: ["Ground", "Normal"],
 		baseStats: {hp: 83, atk: 70, def: 132, spa: 81, spd: 66, spe: 61},
-		abilities: {0: "Early_Bird", 1: "Intimidate"},
+		abilities: {0: "Early Bird", 1: "Intimidate"},
 		weightkg: 75,
 	},
 	whale: {
@@ -740,7 +740,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Whale",
 		types: ["Rock"],
 		baseStats: {hp: 46, atk: 124, def: 74, spa: 96, spd: 94, spe: 54},
-		abilities: {0: "Rock_Head", 1: "Rock_Head"},
+		abilities: {0: "Rock Head", 1: "Rock Head"},
 		weightkg: 5,
 	},
 	eel: {
@@ -748,7 +748,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Eel",
 		types: ["Bug"],
 		baseStats: {hp: 80, atk: 69, def: 51, spa: 96, spd: 115, spe: 109},
-		abilities: {0: "Compound_Eyes", 1: "Run_Away"},
+		abilities: {0: "Compound Eyes", 1: "Run Away"},
 		weightkg: 17,
 	},
 	hare: {
@@ -756,7 +756,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Hare",
 		types: ["Flying"],
 		baseStats: {hp: 106, atk: 63, def: 61, spa: 128, spd: 66, spe: 91},
-		abilities: {0: "Keen_Eye", 1: "Pressure"},
+		abilities: {0: "Keen Eye", 1: "Pressure"},
 		weightkg: 500,
 	},
 	cephalopod: {
@@ -772,7 +772,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Panda",
 		types: ["Flying"],
 		baseStats: {hp: 55, atk: 47, def: 82, spa: 168, spd: 53, spe: 92},
-		abilities: {0: "Compound_Eyes", 1: "Overgrow"},
+		abilities: {0: "Compound Eyes", 1: "Overgrow"},
 		weightkg: 75,
 	},
 	bison: {
@@ -780,7 +780,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Bison",
 		types: ["Fighting"],
 		baseStats: {hp: 66, atk: 145, def: 93, spa: 46, spd: 82, spe: 61},
-		abilities: {0: "Vital_Spirit", 1: "Limber"},
+		abilities: {0: "Vital Spirit", 1: "Limber"},
 		weightkg: 500,
 	},
 	pinniped: {
@@ -788,7 +788,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Pinniped",
 		types: ["Ground"],
 		baseStats: {hp: 80, atk: 129, def: 77, spa: 76, spd: 96, spe: 55},
-		abilities: {0: "Shed_Skin", 1: "Water_Absorb"},
+		abilities: {0: "Shed Skin", 1: "Water Absorb"},
 		weightkg: 500,
 	},
 	llama: {
@@ -796,7 +796,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Llama",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 64, atk: 95, def: 70, spa: 116, spd: 85, spe: 81},
-		abilities: {0: "Water_Absorb", 1: "Inner_Focus"},
+		abilities: {0: "Water Absorb", 1: "Inner Focus"},
 		weightkg: 75,
 	},
 	rhinoceros: {
@@ -804,7 +804,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Rhinoceros",
 		types: ["Dark", "Normal"],
 		baseStats: {hp: 113, atk: 88, def: 87, spa: 61, spd: 69, spe: 90},
-		abilities: {0: "Thick_Fat", 1: "Pressure"},
+		abilities: {0: "Thick Fat", 1: "Pressure"},
 		weightkg: 500,
 	},
 	ptarmigan: {
@@ -812,7 +812,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Ptarmigan",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 73, atk: 113, def: 93, spa: 65, spd: 78, spe: 89},
-		abilities: {0: "Rough_Skin", 1: "Pressure"},
+		abilities: {0: "Rough Skin", 1: "Pressure"},
 		weightkg: 75,
 	},
 	porcupine: {
@@ -828,7 +828,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Canidae",
 		types: ["Ice", "Normal"],
 		baseStats: {hp: 68, atk: 119, def: 80, spa: 105, spd: 54, spe: 61},
-		abilities: {0: "Keen_Eye", 1: "Hustle"},
+		abilities: {0: "Keen Eye", 1: "Hustle"},
 		weightkg: 5,
 	},
 	crane: {
@@ -836,7 +836,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Crane",
 		types: ["Normal", "Rock"],
 		baseStats: {hp: 114, atk: 82, def: 68, spa: 73, spd: 84, spe: 88},
-		abilities: {0: "Swift_Swim", 1: "Levitate"},
+		abilities: {0: "Swift Swim", 1: "Levitate"},
 		weightkg: 75,
 	},
 	hyena: {
@@ -852,7 +852,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Quokka",
 		types: ["Flying", "Ghost"],
 		baseStats: {hp: 83, atk: 93, def: 70, spa: 118, spd: 75, spe: 75},
-		abilities: {0: "Compound_Eyes", 1: "Natural_Cure"},
+		abilities: {0: "Compound Eyes", 1: "Natural Cure"},
 		weightkg: 75,
 	},
 	capybara: {
@@ -860,7 +860,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Capybara",
 		types: ["Poison"],
 		baseStats: {hp: 53, atk: 115, def: 55, spa: 93, spd: 73, spe: 111},
-		abilities: {0: "Speed_Boost", 1: "Run_Away"},
+		abilities: {0: "Speed Boost", 1: "Run Away"},
 		weightkg: 75,
 	},
 	peafowl: {
@@ -868,7 +868,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Peafowl",
 		types: ["Dark"],
 		baseStats: {hp: 94, atk: 92, def: 98, spa: 112, spd: 54, spe: 68},
-		abilities: {0: "Shell_Armor", 1: "Pickup"},
+		abilities: {0: "Shell Armor", 1: "Pickup"},
 		weightkg: 17,
 	},
 	crab: {
@@ -876,7 +876,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Crab",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 123, atk: 113, def: 60, spa: 90, spd: 47, spe: 60},
-		abilities: {0: "Thick_Fat", 1: "Clear_Body"},
+		abilities: {0: "Thick Fat", 1: "Clear Body"},
 		weightkg: 17,
 	},
 	mastodon: {
@@ -892,7 +892,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Alligator",
 		types: ["Ghost", "Grass"],
 		baseStats: {hp: 77, atk: 123, def: 88, spa: 90, spd: 81, spe: 51},
-		abilities: {0: "Levitate", 1: "Rain_Dish"},
+		abilities: {0: "Levitate", 1: "Rain Dish"},
 		weightkg: 5,
 	},
 	bonobo: {
@@ -900,7 +900,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Bonobo",
 		types: ["Bug"],
 		baseStats: {hp: 80, atk: 47, def: 155, spa: 129, spd: 48, spe: 58},
-		abilities: {0: "Run_Away", 1: "Hustle"},
+		abilities: {0: "Run Away", 1: "Hustle"},
 		weightkg: 17,
 	},
 	wildebeest: {
@@ -908,7 +908,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Wildebeest",
 		types: ["Fighting"],
 		baseStats: {hp: 111, atk: 156, def: 85, spa: 62, spd: 58, spe: 47},
-		abilities: {0: "Blaze", 1: "Inner_Focus"},
+		abilities: {0: "Blaze", 1: "Inner Focus"},
 		weightkg: 17,
 	},
 	sparrow: {
@@ -916,7 +916,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Sparrow",
 		types: ["Electric"],
 		baseStats: {hp: 95, atk: 71, def: 46, spa: 144, spd: 95, spe: 69},
-		abilities: {0: "Lightning_Rod", 1: "Minus"},
+		abilities: {0: "Lightning Rod", 1: "Minus"},
 		weightkg: 250,
 	},
 	squirrel: {
@@ -932,7 +932,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Fowl",
 		types: ["Flying", "Dark"],
 		baseStats: {hp: 78, atk: 112, def: 90, spa: 68, spd: 107, spe: 74},
-		abilities: {0: "Pressure", 1: "Flash_Fire"},
+		abilities: {0: "Pressure", 1: "Flash Fire"},
 		weightkg: 250,
 	},
 	grouse: {
@@ -940,7 +940,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Grouse",
 		types: ["Ice", "Psychic"],
 		baseStats: {hp: 105, atk: 76, def: 92, spa: 129, spd: 72, spe: 51},
-		abilities: {0: "Pressure", 1: "Inner_Focus"},
+		abilities: {0: "Pressure", 1: "Inner Focus"},
 		weightkg: 17,
 	},
 	jay: {
@@ -948,7 +948,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Jay",
 		types: ["Dragon"],
 		baseStats: {hp: 72, atk: 117, def: 58, spa: 85, spd: 109, spe: 56},
-		abilities: {0: "Pressure", 1: "Rock_Head"},
+		abilities: {0: "Pressure", 1: "Rock Head"},
 		weightkg: 500,
 	},
 	viper: {
@@ -956,7 +956,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Viper",
 		types: ["Fighting"],
 		baseStats: {hp: 59, atk: 136, def: 76, spa: 59, spd: 93, spe: 95},
-		abilities: {0: "Speed_Boost", 1: "Thick_Fat"},
+		abilities: {0: "Speed Boost", 1: "Thick Fat"},
 		weightkg: 5,
 	},
 	swordtail: {
@@ -964,7 +964,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Swordtail",
 		types: ["Psychic"],
 		baseStats: {hp: 121, atk: 72, def: 60, spa: 98, spd: 125, spe: 52},
-		abilities: {0: "Serene_Grace", 1: "Pressure"},
+		abilities: {0: "Serene Grace", 1: "Pressure"},
 		weightkg: 500,
 	},
 	landfowl: {
@@ -972,7 +972,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Landfowl",
 		types: ["Normal"],
 		baseStats: {hp: 116, atk: 121, def: 91, spa: 42, spd: 92, spe: 54},
-		abilities: {0: "Battle_Armor", 1: "Own_Tempo"},
+		abilities: {0: "Battle Armor", 1: "Own Tempo"},
 		weightkg: 5,
 	},
 	lion: {
@@ -980,7 +980,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Lion",
 		types: ["Normal"],
 		baseStats: {hp: 92, atk: 131, def: 89, spa: 46, spd: 101, spe: 49},
-		abilities: {0: "Cloud_Nine", 1: "Soundproof"},
+		abilities: {0: "Cloud Nine", 1: "Soundproof"},
 		weightkg: 75,
 	},
 	guineafowl: {
@@ -996,7 +996,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Fly",
 		types: ["Water"],
 		baseStats: {hp: 88, atk: 56, def: 144, spa: 58, spd: 118, spe: 41},
-		abilities: {0: "Water_Absorb", 1: "Natural_Cure"},
+		abilities: {0: "Water Absorb", 1: "Natural Cure"},
 		weightkg: 17,
 	},
 	dragon: {
@@ -1004,7 +1004,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Dragon",
 		types: ["Ice", "Fighting"],
 		baseStats: {hp: 100, atk: 117, def: 72, spa: 74, spd: 57, spe: 95},
-		abilities: {0: "Blaze", 1: "Thick_Fat"},
+		abilities: {0: "Blaze", 1: "Thick Fat"},
 		weightkg: 250,
 	},
 	falcon: {
@@ -1020,7 +1020,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Skink",
 		types: ["Bug"],
 		baseStats: {hp: 63, atk: 126, def: 104, spa: 35, spd: 54, spe: 122},
-		abilities: {0: "Compound_Eyes", 1: "Swarm"},
+		abilities: {0: "Compound Eyes", 1: "Swarm"},
 		weightkg: 250,
 	},
 	stoat: {
@@ -1036,7 +1036,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Ladybug",
 		types: ["Steel"],
 		baseStats: {hp: 70, atk: 122, def: 81, spa: 77, spd: 91, spe: 87},
-		abilities: {0: "Serene_Grace", 1: "Pickup"},
+		abilities: {0: "Serene Grace", 1: "Pickup"},
 		weightkg: 5,
 	},
 	smelt: {
@@ -1044,7 +1044,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Smelt",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 130, atk: 68, def: 90, spa: 49, spd: 57, spe: 91},
-		abilities: {0: "Run_Away", 1: "Water_Absorb"},
+		abilities: {0: "Run Away", 1: "Water Absorb"},
 		weightkg: 5,
 	},
 	galliform: {
@@ -1052,7 +1052,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Galliform",
 		types: ["Normal"],
 		baseStats: {hp: 70, atk: 59, def: 111, spa: 56, spd: 130, spe: 69},
-		abilities: {0: "Huge_Power", 1: "Run_Away"},
+		abilities: {0: "Huge Power", 1: "Run Away"},
 		weightkg: 5,
 	},
 	gecko: {
@@ -1068,7 +1068,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Pig",
 		types: ["Psychic", "Dark"],
 		baseStats: {hp: 80, atk: 115, def: 71, spa: 61, spd: 88, spe: 73},
-		abilities: {0: "Levitate", 1: "Own_Tempo"},
+		abilities: {0: "Levitate", 1: "Own Tempo"},
 		weightkg: 250,
 	},
 	butterfly: {
@@ -1084,7 +1084,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Puma",
 		types: ["Ice", "Water"],
 		baseStats: {hp: 64, atk: 91, def: 91, spa: 121, spd: 76, spe: 79},
-		abilities: {0: "Cloud_Nine", 1: "Torrent"},
+		abilities: {0: "Cloud Nine", 1: "Torrent"},
 		weightkg: 17,
 	},
 	trout: {
@@ -1092,7 +1092,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Trout",
 		types: ["Normal"],
 		baseStats: {hp: 52, atk: 123, def: 85, spa: 40, spd: 115, spe: 79},
-		abilities: {0: "Run_Away", 1: "Cute_Charm"},
+		abilities: {0: "Run Away", 1: "Cute Charm"},
 		weightkg: 17,
 	},
 	cat: {
@@ -1100,7 +1100,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Cat",
 		types: ["Dragon"],
 		baseStats: {hp: 53, atk: 93, def: 121, spa: 80, spd: 86, spe: 59},
-		abilities: {0: "Rock_Head", 1: "Rough_Skin"},
+		abilities: {0: "Rock Head", 1: "Rough Skin"},
 		weightkg: 500,
 	},
 	gayal: {
@@ -1108,7 +1108,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Gayal",
 		types: ["Psychic"],
 		baseStats: {hp: 49, atk: 68, def: 62, spa: 71, spd: 92, spe: 152},
-		abilities: {0: "Pressure", 1: "Keen_Eye"},
+		abilities: {0: "Pressure", 1: "Keen Eye"},
 		weightkg: 75,
 	},
 	roundworm: {
@@ -1116,7 +1116,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Roundworm",
 		types: ["Water", "Fire"],
 		baseStats: {hp: 64, atk: 80, def: 96, spa: 114, spd: 104, spe: 61},
-		abilities: {0: "Water_Veil", 1: "Flash_Fire"},
+		abilities: {0: "Water Veil", 1: "Flash Fire"},
 		weightkg: 5,
 	},
 	baboon: {
@@ -1124,7 +1124,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Baboon",
 		types: ["Fighting"],
 		baseStats: {hp: 84, atk: 121, def: 103, spa: 89, spd: 59, spe: 63},
-		abilities: {0: "Limber", 1: "Effect_Spore"},
+		abilities: {0: "Limber", 1: "Effect Spore"},
 		weightkg: 17,
 	},
 	planarian: {
@@ -1140,7 +1140,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Earwig",
 		types: ["Dragon", "Ice"],
 		baseStats: {hp: 80, atk: 124, def: 93, spa: 72, spd: 62, spe: 81},
-		abilities: {0: "Soundproof", 1: "Vital_Spirit"},
+		abilities: {0: "Soundproof", 1: "Vital Spirit"},
 		weightkg: 250,
 	},
 	tarantula: {
@@ -1148,7 +1148,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Tarantula",
 		types: ["Fire", "Fighting"],
 		baseStats: {hp: 68, atk: 133, def: 92, spa: 69, spd: 67, spe: 83},
-		abilities: {0: "Speed_Boost", 1: "Hyper_Cutter"},
+		abilities: {0: "Speed Boost", 1: "Hyper Cutter"},
 		weightkg: 5,
 	},
 	pony: {
@@ -1156,7 +1156,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Pony",
 		types: ["Ground", "Dark"],
 		baseStats: {hp: 109, atk: 111, def: 104, spa: 53, spd: 79, spe: 66},
-		abilities: {0: "Drought", 1: "Sand_Veil"},
+		abilities: {0: "Drought", 1: "Sand Veil"},
 		weightkg: 500,
 	},
 	anaconda: {
@@ -1164,7 +1164,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Anaconda",
 		types: ["Ice", "Poison"],
 		baseStats: {hp: 74, atk: 85, def: 96, spa: 84, spd: 114, spe: 74},
-		abilities: {0: "Speed_Boost", 1: "Thick_Fat"},
+		abilities: {0: "Speed Boost", 1: "Thick Fat"},
 		weightkg: 75,
 	},
 	anglerfish: {
@@ -1172,7 +1172,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Anglerfish",
 		types: ["Fire", "Ghost"],
 		baseStats: {hp: 81, atk: 91, def: 114, spa: 65, spd: 75, spe: 79},
-		abilities: {0: "Speed_Boost", 1: "Blaze"},
+		abilities: {0: "Speed Boost", 1: "Blaze"},
 		weightkg: 75,
 	},
 	leopard: {
@@ -1180,7 +1180,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Leopard",
 		types: ["Dark", "Water"],
 		baseStats: {hp: 58, atk: 126, def: 52, spa: 134, spd: 62, spe: 71},
-		abilities: {0: "Own_Tempo", 1: "Flash_Fire"},
+		abilities: {0: "Own Tempo", 1: "Flash Fire"},
 		weightkg: 17,
 	},
 	gopher: {
@@ -1204,7 +1204,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Frog",
 		types: ["Bug", "Grass"],
 		baseStats: {hp: 93, atk: 60, def: 133, spa: 88, spd: 65, spe: 78},
-		abilities: {0: "Water_Absorb", 1: "Swarm"},
+		abilities: {0: "Water Absorb", 1: "Swarm"},
 		weightkg: 5,
 	},
 	ermine: {
@@ -1212,7 +1212,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Ermine",
 		types: ["Fighting", "Dark"],
 		baseStats: {hp: 121, atk: 95, def: 67, spa: 53, spd: 62, spe: 118},
-		abilities: {0: "Thick_Fat", 1: "Hustle"},
+		abilities: {0: "Thick Fat", 1: "Hustle"},
 		weightkg: 250,
 	},
 	flea: {
@@ -1220,7 +1220,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Flea",
 		types: ["Fighting"],
 		baseStats: {hp: 79, atk: 81, def: 110, spa: 77, spd: 67, spe: 82},
-		abilities: {0: "Thick_Fat", 1: "Vital_Spirit"},
+		abilities: {0: "Thick Fat", 1: "Vital Spirit"},
 		weightkg: 5,
 	},
 	kite: {
@@ -1236,7 +1236,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Cardinal",
 		types: ["Flying", "Fighting"],
 		baseStats: {hp: 69, atk: 113, def: 87, spa: 106, spd: 67, spe: 75},
-		abilities: {0: "Speed_Boost", 1: "Overgrow"},
+		abilities: {0: "Speed Boost", 1: "Overgrow"},
 		weightkg: 250,
 	},
 	walrus: {
@@ -1244,7 +1244,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Walrus",
 		types: ["Water"],
 		baseStats: {hp: 59, atk: 41, def: 84, spa: 56, spd: 149, spe: 116},
-		abilities: {0: "Damp", 1: "Water_Absorb"},
+		abilities: {0: "Damp", 1: "Water Absorb"},
 		weightkg: 250,
 	},
 	echidna: {
@@ -1252,7 +1252,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Echidna",
 		types: ["Fire"],
 		baseStats: {hp: 47, atk: 92, def: 51, spa: 67, spd: 119, spe: 121},
-		abilities: {0: "Flash_Fire", 1: "Flash_Fire"},
+		abilities: {0: "Flash Fire", 1: "Flash Fire"},
 		weightkg: 75,
 	},
 	ape: {
@@ -1260,7 +1260,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Ape",
 		types: ["Ground"],
 		baseStats: {hp: 68, atk: 149, def: 60, spa: 86, spd: 79, spe: 81},
-		abilities: {0: "Damp", 1: "Sand_Veil"},
+		abilities: {0: "Damp", 1: "Sand Veil"},
 		weightkg: 250,
 	},
 	quelea: {
@@ -1268,7 +1268,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Quelea",
 		types: ["Ice", "Ground"],
 		baseStats: {hp: 93, atk: 82, def: 88, spa: 112, spd: 85, spe: 48},
-		abilities: {0: "Static", 1: "Shield_Dust"},
+		abilities: {0: "Static", 1: "Shield Dust"},
 		weightkg: 250,
 	},
 	guppy: {
@@ -1276,7 +1276,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Guppy",
 		types: ["Dragon", "Normal"],
 		baseStats: {hp: 73, atk: 134, def: 81, spa: 71, spd: 72, spe: 87},
-		abilities: {0: "Cloud_Nine", 1: "Rough_Skin"},
+		abilities: {0: "Cloud Nine", 1: "Rough Skin"},
 		weightkg: 17,
 	},
 	fox: {
@@ -1284,7 +1284,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Fox",
 		types: ["Ground"],
 		baseStats: {hp: 84, atk: 128, def: 79, spa: 61, spd: 94, spe: 69},
-		abilities: {0: "Static", 1: "Water_Absorb"},
+		abilities: {0: "Static", 1: "Water Absorb"},
 		weightkg: 500,
 	},
 	caribou: {
@@ -1292,7 +1292,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Caribou",
 		types: ["Fire"],
 		baseStats: {hp: 73, atk: 78, def: 53, spa: 123, spd: 104, spe: 52},
-		abilities: {0: "Blaze", 1: "Flame_Body"},
+		abilities: {0: "Blaze", 1: "Flame Body"},
 		weightkg: 500,
 	},
 	kingfisher: {
@@ -1300,7 +1300,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Kingfisher",
 		types: ["Fire"],
 		baseStats: {hp: 96, atk: 65, def: 116, spa: 134, spd: 60, spe: 50},
-		abilities: {0: "Flash_Fire", 1: "Flash_Fire"},
+		abilities: {0: "Flash Fire", 1: "Flash Fire"},
 		weightkg: 17,
 	},
 	otter: {
@@ -1308,7 +1308,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Otter",
 		types: ["Ice", "Fire"],
 		baseStats: {hp: 79, atk: 62, def: 91, spa: 130, spd: 87, spe: 64},
-		abilities: {0: "Vital_Spirit", 1: "Own_Tempo"},
+		abilities: {0: "Vital Spirit", 1: "Own Tempo"},
 		weightkg: 17,
 	},
 	antlion: {
@@ -1316,7 +1316,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Antlion",
 		types: ["Dark", "Fighting"],
 		baseStats: {hp: 113, atk: 94, def: 52, spa: 67, spd: 77, spe: 86},
-		abilities: {0: "Insomnia", 1: "Inner_Focus"},
+		abilities: {0: "Insomnia", 1: "Inner Focus"},
 		weightkg: 17,
 	},
 	meerkat: {
@@ -1324,7 +1324,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Meerkat",
 		types: ["Ground"],
 		baseStats: {hp: 53, atk: 116, def: 136, spa: 46, spd: 95, spe: 37},
-		abilities: {0: "Sand_Veil", 1: "Levitate"},
+		abilities: {0: "Sand Veil", 1: "Levitate"},
 		weightkg: 17,
 	},
 	locust: {
@@ -1332,7 +1332,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Locust",
 		types: ["Grass"],
 		baseStats: {hp: 92, atk: 57, def: 94, spa: 126, spd: 76, spe: 71},
-		abilities: {0: "Shell_Armor", 1: "Effect_Spore"},
+		abilities: {0: "Shell Armor", 1: "Effect Spore"},
 		weightkg: 17,
 	},
 	deer: {
@@ -1340,7 +1340,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Deer",
 		types: ["Dark", "Fire"],
 		baseStats: {hp: 60, atk: 102, def: 75, spa: 118, spd: 102, spe: 63},
-		abilities: {0: "Insomnia", 1: "Flash_Fire"},
+		abilities: {0: "Insomnia", 1: "Flash Fire"},
 		weightkg: 17,
 	},
 	orangutan: {
@@ -1348,7 +1348,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Orangutan",
 		types: ["Rock", "Ghost"],
 		baseStats: {hp: 77, atk: 76, def: 109, spa: 61, spd: 114, spe: 79},
-		abilities: {0: "Flash_Fire", 1: "Pressure"},
+		abilities: {0: "Flash Fire", 1: "Pressure"},
 		weightkg: 250,
 	},
 	shrew: {
@@ -1356,7 +1356,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Shrew",
 		types: ["Rock"],
 		baseStats: {hp: 77, atk: 70, def: 126, spa: 43, spd: 89, spe: 82},
-		abilities: {0: "Swift_Swim", 1: "Shell_Armor"},
+		abilities: {0: "Swift Swim", 1: "Shell Armor"},
 		weightkg: 5,
 	},
 	octopus: {
@@ -1364,7 +1364,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Octopus",
 		types: ["Ground", "Fighting"],
 		baseStats: {hp: 78, atk: 110, def: 99, spa: 80, spd: 68, spe: 70},
-		abilities: {0: "Limber", 1: "Rock_Head"},
+		abilities: {0: "Limber", 1: "Rock Head"},
 		weightkg: 75,
 	},
 	bat: {
@@ -1380,7 +1380,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Owl",
 		types: ["Psychic", "Dark"],
 		baseStats: {hp: 63, atk: 90, def: 90, spa: 123, spd: 97, spe: 66},
-		abilities: {0: "Keen_Eye", 1: "Intimidate"},
+		abilities: {0: "Keen Eye", 1: "Intimidate"},
 		weightkg: 75,
 	},
 	swallow: {
@@ -1388,7 +1388,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Swallow",
 		types: ["Fighting"],
 		baseStats: {hp: 89, atk: 116, def: 55, spa: 80, spd: 115, spe: 74},
-		abilities: {0: "Guts", 1: "Cute_Charm"},
+		abilities: {0: "Guts", 1: "Cute Charm"},
 		weightkg: 5,
 	},
 	egret: {
@@ -1396,7 +1396,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Egret",
 		types: ["Fire"],
 		baseStats: {hp: 80, atk: 75, def: 96, spa: 128, spd: 60, spe: 75},
-		abilities: {0: "Drought", 1: "Rock_Head"},
+		abilities: {0: "Drought", 1: "Rock Head"},
 		weightkg: 250,
 	},
 	cockroach: {
@@ -1404,7 +1404,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Cockroach",
 		types: ["Bug"],
 		baseStats: {hp: 39, atk: 157, def: 72, spa: 106, spd: 63, spe: 87},
-		abilities: {0: "Compound_Eyes", 1: "Shed_Skin"},
+		abilities: {0: "Compound Eyes", 1: "Shed Skin"},
 		weightkg: 17,
 	},
 	scallop: {
@@ -1412,7 +1412,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Scallop",
 		types: ["Dark", "Rock"],
 		baseStats: {hp: 105, atk: 82, def: 136, spa: 82, spd: 63, spe: 44},
-		abilities: {0: "Thick_Fat", 1: "Soundproof"},
+		abilities: {0: "Thick Fat", 1: "Soundproof"},
 		weightkg: 500,
 	},
 	narwhal: {
@@ -1420,7 +1420,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Narwhal",
 		types: ["Rock", "Dragon"],
 		baseStats: {hp: 73, atk: 89, def: 149, spa: 68, spd: 67, spe: 68},
-		abilities: {0: "Shell_Armor", 1: "Cloud_Nine"},
+		abilities: {0: "Shell Armor", 1: "Cloud Nine"},
 		weightkg: 250,
 	},
 	jellyfish: {
@@ -1428,7 +1428,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Jellyfish",
 		types: ["Rock"],
 		baseStats: {hp: 77, atk: 91, def: 73, spa: 64, spd: 86, spe: 131},
-		abilities: {0: "Shell_Armor", 1: "Sturdy"},
+		abilities: {0: "Shell Armor", 1: "Sturdy"},
 		weightkg: 17,
 	},
 	alpaca: {
@@ -1444,7 +1444,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Cicada",
 		types: ["Flying", "Ice"],
 		baseStats: {hp: 120, atk: 83, def: 103, spa: 54, spd: 88, spe: 79},
-		abilities: {0: "Water_Veil", 1: "Pressure"},
+		abilities: {0: "Water Veil", 1: "Pressure"},
 		weightkg: 250,
 	},
 	rook: {
@@ -1452,7 +1452,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Rook",
 		types: ["Grass", "Dragon"],
 		baseStats: {hp: 117, atk: 95, def: 65, spa: 75, spd: 85, spe: 80},
-		abilities: {0: "Levitate", 1: "Poison_Point"},
+		abilities: {0: "Levitate", 1: "Poison Point"},
 		weightkg: 75,
 	},
 	cod: {
@@ -1460,7 +1460,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Cod",
 		types: ["Water"],
 		baseStats: {hp: 66, atk: 113, def: 87, spa: 66, spd: 92, spe: 66},
-		abilities: {0: "Swift_Swim", 1: "Hyper_Cutter"},
+		abilities: {0: "Swift Swim", 1: "Hyper Cutter"},
 		weightkg: 250,
 	},
 	bovid: {
@@ -1468,7 +1468,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Bovid",
 		types: ["Normal"],
 		baseStats: {hp: 104, atk: 116, def: 102, spa: 72, spd: 50, spe: 47},
-		abilities: {0: "Hustle", 1: "Serene_Grace"},
+		abilities: {0: "Hustle", 1: "Serene Grace"},
 		weightkg: 75,
 	},
 	mongoose: {
@@ -1476,7 +1476,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Mongoose",
 		types: ["Electric"],
 		baseStats: {hp: 40, atk: 112, def: 76, spa: 124, spd: 54, spe: 102},
-		abilities: {0: "Plus", 1: "Magnet_Pull"},
+		abilities: {0: "Plus", 1: "Magnet Pull"},
 		weightkg: 5,
 	},
 	bass: {
@@ -1484,7 +1484,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Bass",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 113, atk: 92, def: 59, spa: 107, spd: 65, spe: 86},
-		abilities: {0: "Hustle", 1: "Shed_Skin"},
+		abilities: {0: "Hustle", 1: "Shed Skin"},
 		weightkg: 5,
 	},
 	elk: {
@@ -1492,7 +1492,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Elk",
 		types: ["Poison"],
 		baseStats: {hp: 113, atk: 51, def: 154, spa: 71, spd: 62, spe: 65},
-		abilities: {0: "Poison_Point", 1: "Insomnia"},
+		abilities: {0: "Poison Point", 1: "Insomnia"},
 		weightkg: 250,
 	},
 	turkey: {
@@ -1508,7 +1508,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Lemur",
 		types: ["Rock", "Dark"],
 		baseStats: {hp: 57, atk: 87, def: 122, spa: 86, spd: 101, spe: 65},
-		abilities: {0: "Rock_Head", 1: "Intimidate"},
+		abilities: {0: "Rock Head", 1: "Intimidate"},
 		weightkg: 75,
 	},
 	orca: {
@@ -1516,7 +1516,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Orca",
 		types: ["Grass"],
 		baseStats: {hp: 45, atk: 94, def: 91, spa: 69, spd: 97, spe: 119},
-		abilities: {0: "Natural_Cure", 1: "Overgrow"},
+		abilities: {0: "Natural Cure", 1: "Overgrow"},
 		weightkg: 500,
 	},
 	boa: {
@@ -1524,7 +1524,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Boa",
 		types: ["Steel", "Grass"],
 		baseStats: {hp: 74, atk: 110, def: 127, spa: 74, spd: 90, spe: 43},
-		abilities: {0: "Clear_Body", 1: "Insomnia"},
+		abilities: {0: "Clear Body", 1: "Insomnia"},
 		weightkg: 500,
 	},
 	skunk: {
@@ -1532,7 +1532,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Skunk",
 		types: ["Ice"],
 		baseStats: {hp: 60, atk: 97, def: 70, spa: 82, spd: 110, spe: 91},
-		abilities: {0: "Hustle", 1: "Shell_Armor"},
+		abilities: {0: "Hustle", 1: "Shell Armor"},
 		weightkg: 5,
 	},
 	boar: {
@@ -1540,7 +1540,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Boar",
 		types: ["Dark", "Fire"],
 		baseStats: {hp: 86, atk: 129, def: 79, spa: 67, spd: 80, spe: 73},
-		abilities: {0: "Levitate", 1: "Vital_Spirit"},
+		abilities: {0: "Levitate", 1: "Vital Spirit"},
 		weightkg: 17,
 	},
 	cricket: {
@@ -1556,7 +1556,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Stork",
 		types: ["Poison"],
 		baseStats: {hp: 146, atk: 62, def: 57, spa: 49, spd: 110, spe: 102},
-		abilities: {0: "Natural_Cure", 1: "Sticky_Hold"},
+		abilities: {0: "Natural Cure", 1: "Sticky Hold"},
 		weightkg: 500,
 	},
 	magpie: {
@@ -1572,7 +1572,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Jackal",
 		types: ["Ice"],
 		baseStats: {hp: 68, atk: 98, def: 135, spa: 73, spd: 60, spe: 67},
-		abilities: {0: "Keen_Eye", 1: "Inner_Focus"},
+		abilities: {0: "Keen Eye", 1: "Inner Focus"},
 		weightkg: 17,
 	},
 	swift: {
@@ -1596,7 +1596,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Spider",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 63, atk: 101, def: 76, spa: 97, spd: 60, spe: 125},
-		abilities: {0: "Sand_Veil", 1: "Keen_Eye"},
+		abilities: {0: "Sand Veil", 1: "Keen Eye"},
 		weightkg: 500,
 	},
 };
