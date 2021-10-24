@@ -269,6 +269,115 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		name: "Triple Kick",
 		pp: 10,
 		priority: 0,
+		secondary: null,
+		target: "normal",
+		type: "Bug",
+		contestType: "Tough",
+	},
+	invinciblewill: {
+		num: 829,
+		accuracy: true,
+		basePower: 0,
+		category: "Status",
+		name: "Invincible Will",
+		desc: "Raises the user's Attack, Defense, and Special Defense by 1 stage. User recovers 1/16 max HP per turn.",
+		shortDesc: "Raises the user's Attack, Defense, and Special Defense by 1. User recovers 1/16 max HP per turn.",
+		pp: 20,
+		priority: 0,
+		flags: {snatch: 1, heal: 1},
+		boosts: {
+			atk: 1,
+			def: 1,
+			spd: 1,
+		},
+		volatileStatus: 'invinciblewill',
+		condition: {
+			onStart(pokemon) {
+				this.add('-start', pokemon, 'Invincible Will');
+			},
+			onResidualOrder: 6,
+			onResidual(pokemon) {
+				this.heal(pokemon.baseMaxhp / 16);
+			},
+		},
+		secondary: null,
+		secondary: null,
+		target: "self",
+		type: "Ground",
+		contestType: "Cool",
+	},
+	mindsurge: {
+		num: 831,
+		accuracy: 100,
+		basePower: 110,
+		category: "Physical",
+		name: "Mind Surge",
+		desc: "If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.",
+		shortDesc: "Has 33% recoil.",
+		pp: 15,
+		priority: 0,
+		flags: {contact: 1, protect: 1, mirror: 1},
+		recoil: [33, 100],
+		secondary: null,
+		target: "normal",
+		type: "Psychic",
+		contestType: "Cool",
+	},
+	planetarycrash: {
+		num: 1002,
+		accuracy: 80,
+		basePower: 120,
+		category: "Special",
+		name: "Planetary Crash",
+		shortDesc: "User takes 50% of max HP if it misses. Phys if Atk > Sp. Atk",
+		pp: 5,
+		priority: 0,
+		flags: {protect: 1, mirror: 1, contact: 1},
+		onModifyMove(move, pokemon) {
+			if (pokemon.getStat('atk', false, true) > pokemon.getStat('spa', false, true)) move.category = 'Physical';
+		},
+		hasCrashDamage: true,
+		onMoveFail(target, source, move) {
+			this.damage(source.baseMaxhp / 2, source, source, this.dex.getEffect('High Jump Kick'));
+		},
+		secondary: null,
+		type: "Rock",
+		contestType: "Cool",
+	},
+	restlesshorrors: {
+		num: 828,
+		accuracy: 100,
+		basePower: 75,
+		category: "Special",
+		name: "Restless Horrors",
+		shortDesc: "Puts the target to sleep after 1 turn.",
+		pp: 5,
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
+		onHit(target) {
+			if (target.status || !target.runStatusImmunity('slp')) return;
+			if (this.random(2) === 0) return;
+			target.addVolatile('yawn');
+		},
+		onAfterSubDamage(damage, target) {
+			if (target.status || !target.runStatusImmunity('slp')) return;
+			if (this.random(2) === 0) return;
+			target.addVolatile('yawn');
+		},
+		type: "Poison",
+		contestType: "Cool",
+	},
+	triplekick: {
+		num: 167,
+		accuracy: 90,
+		basePower: 15,
+		basePowerCallback(pokemon, target, move) {
+			return 15 * move.hit;
+		},
+		category: "Physical",
+		name: "Triple Kick",
+		pp: 10,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
 		multihit: 3,
 		multiaccuracy: true,
