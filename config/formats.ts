@@ -1899,4 +1899,47 @@ export const Formats: FormatList = [
 		banlist: ['All Pokemon', 'Belly Drum', 'Huge Power'],
 		unbanlist: ['Shadow Tag', 'Pichu', 'Cleffa', 'Igglybuff', 'Togepi', 'Tyrogue', 'Smoochum', 'Elekid', 'Magby', 'Azurill', 'Wynaut', 'Budew', 'Chingling', 'Bonsly', 'Mime Jr.', 'Happiny', 'Munchlax', 'Riolu', 'Mantyke', 'Toxel'],
 	},
+	// White Tusk
+	///////////////////////////////////////////////////////////////////
+	{
+		name: "[Gen 8] White Tusk",
+		desc: [
+			`<b>White Tusk</b>: hivemind`,
+		],
+		ruleset: ['Standard', 'Data Mod'],
+		banlist: ['Baton Pass', 'Illeagle'],
+		onValidateTeam(team, format) {
+			/**@type {{[k: string]: true}} */
+			let speciesTable = {};
+			for (const set of team) {
+				let template = this.dex.getSpecies(set.species);
+				if (template.tier !== 'White Tusk') {
+					return [set.species + ' is not legal in the White Tusk format.'];
+				}
+				if (set.species == 'Dormirr' && set.item !== 'Future Sphere')
+					return ["Dormirr can only hold Future Sphere as its item."]
+				if (set.species == 'Xylyeozop' && set.item !== 'Core Module')
+					return ["Xylyeozop can only hold Core Module as its item."]
+				if (set.species == 'Gumbrawl-Bubble' && set.item !== 'Luminous Bubble')
+					return ["Gumbrawl-Bubble can only hold Luminous Bubble as its item."]
+				if (set.species == 'Gumbrawl-Fresh' && set.item !== 'Fresh Stick')
+					return ["Gumbrawl-Fresh can only hold Fresh Stick as its item."]
+				if (set.species == 'Blite' && set.item !== 'Cursed Seal')
+					return ["Blite can only hold Cursed Seal as its item."]
+			}
+			if ((team.includes('Xylomist') && team.includes('Yeoxylo')) ||
+				(team.includes('Xylomist') && team.includes('Xylozop')) ||
+				(team.includes('Xylomist') && team.includes('Xylyeozop')) ||
+				(team.includes('Yeomelt') && team.includes('Yeoxylo')) ||
+				(team.includes('Yeomelt') && team.includes('Zopyeo')) ||
+				(team.includes('Yeomelt') && team.includes('Xylyeozop')) ||
+				(team.includes('Zoplite') && team.includes('Xylozop')) ||
+				(team.includes('Zoplite') && team.includes('Zopyeo')) ||
+				(team.includes('Zoplite') && team.includes('Xylyeozop')) ||
+				) {
+				return ['You cannot have XYZ Pokemon with their combined forms.']
+			}
+		},
+		mod: 'whitetusk',
+	},
 ];
